@@ -17,3 +17,5 @@ Meanwhile, Princes William and Harry play polo. Some things never change.
 Image: Picture: AFP/GETTY IMAGES
 
 Source: Charlotte Cowles, “Kate Middleton’s Revised Due Date, and More Royal Baby News,” NYMag.com, July 16, 2013
+
+![](../images/Bortolot_Newsflash_KateBaby2EDIT.jpg)

@@ -29,3 +29,5 @@ This blessed plot, this earth, this realm, this England.
 —William Shakespeare, “King Richard II,” Act 2, scene 1, c. 1595
 
 
+
+![](../images/Bortolot_Newsflash_RoyalBaby1EDIT.jpg)

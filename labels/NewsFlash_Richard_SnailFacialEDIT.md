@@ -15,3 +15,5 @@ Many depictions of the Buddha, like this one here, feature a cranium covered wit
 Photo: *Telegraph*
 
 Source: “Japan Clinic Launches ‘Snail Facial,’” *The Telegraph*, July 13, 2013 
+
+![](../images/NewsFlash_Richard_SnailFacialEDIT.jpg)

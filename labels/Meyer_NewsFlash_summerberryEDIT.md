@@ -67,3 +67,5 @@ Ingredients
 ¼ cup **stick butter** (half, melted) 
 
 Source: yummly.com/recipe/Triple-berry-crisp-352474
+
+![](../images/Meyer_NewsFlash_summerberryEDIT.jpg)

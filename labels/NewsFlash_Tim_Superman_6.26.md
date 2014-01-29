@@ -13,3 +13,5 @@ Photo credit: Clay Enos
 *Entertainment Weekly*, June 11, 2013
 
 
+
+![](../images/NewsFlash_Tim_Superman_6.26.jpg)

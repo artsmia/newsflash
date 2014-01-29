@@ -31,3 +31,5 @@ This blessed plot, this earth, this realm, this England.
 -   *Alex Bortolot, Content Strategist, July 22, 2013*
 
 
+
+![](../images/Bortolot_Newsflash_RoyalBoy_7.22.jpg)

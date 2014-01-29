@@ -17,3 +17,5 @@ Photo: Diego James Robles for *The New York Times*
 Source: FERNANDA SANTOS, “On Fate of Wild Horses, Stars and Indians Spar,” 
 
 *New York Times*, August 10, 2013 
+
+![](../images/NewsFlash_Richard_WildHorsesEDIT.jpg)

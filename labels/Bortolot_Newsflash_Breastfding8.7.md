@@ -13,3 +13,5 @@ Of 43 states and U.S. territories surveyed from 2008 to 2011, just under half sh
 Credit: Renee Jones Schneider for *Star Tribune*.  
 
 Source: Sabrina Tavernise, “Broad Decline in Obesity Rate seen in Poor Young Children,” *New York Times*, August 6, 2013
+
+![](../images/Bortolot_Newsflash_Breastfding8.7.jpg)

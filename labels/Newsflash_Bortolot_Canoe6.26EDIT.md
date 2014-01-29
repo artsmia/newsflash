@@ -11,3 +11,5 @@ Recently, the American Society of Civil Engineers held its National Concrete Can
 Image: CANOE-1-articleLarge.jpg Courtesy New York Times
 
 http://www.nytimes.com/2013/06/24/science/out-of-concrete-and-drudgery-come-canoes-that-float.html?\_r=0&gwh=B417EDFC5AEA46B2274FA8DF525ED173
+
+![](../images/Newsflash_Bortolot_Canoe6.26EDIT.jpg)

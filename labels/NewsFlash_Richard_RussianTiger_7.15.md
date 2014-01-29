@@ -15,3 +15,5 @@ Photo: James Hill for *New York Times    *Above image of MIA staffer
 Source: Andrew Kramer, *New York Times*, July 11, 2013 
 
 
+
+![](../images/NewsFlash_Richard_RussianTiger_7.15.jpg)

@@ -9,3 +9,5 @@ A recent study showed that your sweet tooth may be enhanced by a sweetly designe
 *July 10*
 
 Source: “7 ways the utensils you use change the taste of food,” *FastCompany Design*, July 10, 2013 
+
+![](../images/NewsFlash_Naithani_UtensilsEDIT.jpg)

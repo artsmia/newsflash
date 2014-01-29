@@ -15,3 +15,5 @@ Gandolfini grew up close to Montclair and with his character’s multiple indust
 Photo: Anthony Neste/HBO 
 
 Source:“James Gandolfini Dead: Fans Flock to ‘The Sopranos’ Diner in New Jersey to Pay Tribute,” ABC News, June 26, 2013
+
+![](../images/NewsFlash_Feldman_Gandolfini6.26.2EDIT.jpg)

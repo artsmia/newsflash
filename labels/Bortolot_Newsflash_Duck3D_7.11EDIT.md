@@ -13,3 +13,5 @@ In Tennessee, Buttercup the Duck was born with a backwards foot. It was amputate
 Photo: Feathered Angels Waterfowl Sanctuary
 
 Source: Rusty Blazenhoff, “Amputee Duck Walks For the First Time With a New 3D-Printed Foot,” www.Laughingsquid.com, July 2, 2013
+
+![](../images/Bortolot_Newsflash_Duck3D_7.11EDIT.jpg)

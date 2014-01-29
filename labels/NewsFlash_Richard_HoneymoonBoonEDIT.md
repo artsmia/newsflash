@@ -15,3 +15,5 @@ Same-sex couples are a hot new market that’s worth an estimated \$130 million 
 Photo: Carlos Gonzalez, *Star Tribune*
 
 Source: Aimee Blanchette, Same-sex marriage could be a boon for Minnesota's wedding industry,” *Star Tribune*, July 24, 2013 
+
+![](../images/NewsFlash_Richard_HoneymoonBoonEDIT.jpg)

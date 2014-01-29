@@ -13,3 +13,5 @@ e-newspapers? Stay tuned.
 *August 8*
 
 Source: Adam Hartung, “Be Glad Jeff Bezos Bought *The Washington Post*,” *Forbes*, August 6, 2013
+
+![](../images/NewsFlash_ATR_Bezos_8.8_EDIT.jpg)

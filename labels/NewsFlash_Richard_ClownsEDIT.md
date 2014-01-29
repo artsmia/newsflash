@@ -13,3 +13,5 @@ Cultures around the world use masks in ritual performances. Increasingly, howeve
 Photo: The Kobal Collection
 
 Source: Linda Rodriguez McRobbie, “The History and Psychology of Clowns Being Scary,” *Smithsonian Magazine*, August 2013 
+
+![](../images/NewsFlash_Richard_ClownsEDIT.jpg)

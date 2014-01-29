@@ -11,3 +11,5 @@ What’s at stake? Billions of tourism dollars. And perhaps one of the primary r
 *August 21, 2013*
 
 Source: *New York Times*, August 20, 2013
+
+![](../images/130821_Gihring_UnfriendlyFrenchEDIT.jpg)
