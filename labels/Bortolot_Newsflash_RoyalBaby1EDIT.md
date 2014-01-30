@@ -30,4 +30,4 @@ This blessed plot, this earth, this realm, this England.
 
 
 
-![](../images/Bortolot_Newsflash_RoyalBaby1EDIT.jpg)
+![](../images/Bortolot_Newsflash_RoyalBaby1EDIT-1.jpeg)

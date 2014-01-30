@@ -18,4 +18,4 @@ Source: FERNANDA SANTOS, “On Fate of Wild Horses, Stars and Indians Spar,” 
 
 *New York Times*, August 10, 2013 
 
-![](../images/NewsFlash_Richard_WildHorsesEDIT.jpg)
+![](../images/NewsFlash_Richard_WildHorsesEDIT-1.jpeg)

@@ -14,4 +14,4 @@ Photo: The Kobal Collection
 
 Source: Linda Rodriguez McRobbie, “The History and Psychology of Clowns Being Scary,” *Smithsonian Magazine*, August 2013 
 
-![](../images/NewsFlash_Richard_ClownsEDIT.jpg)
+![](../images/NewsFlash_Richard_ClownsEDIT-1.jpeg)

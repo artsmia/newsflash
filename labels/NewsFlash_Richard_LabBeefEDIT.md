@@ -16,4 +16,4 @@ Photo: David Parry/Press Association, via European Pressphoto Agency
 
 Source: HENRY FOUNTAIN, “A Lab-Grown Burger Gets a Taste Test,” *New York Times*, August 6, 2013 
 
-![](../images/NewsFlash_Richard_LabBeefEDIT.jpg)
+![](../images/NewsFlash_Richard_LabBeefEDIT-1.jpeg)

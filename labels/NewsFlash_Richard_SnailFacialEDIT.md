@@ -16,4 +16,4 @@ Photo: *Telegraph*
 
 Source: “Japan Clinic Launches ‘Snail Facial,’” *The Telegraph*, July 13, 2013 
 
-![](../images/NewsFlash_Richard_SnailFacialEDIT.jpg)
+![](../images/NewsFlash_Richard_SnailFacialEDIT-1.jpeg)
