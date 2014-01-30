@@ -20,3 +20,5 @@ Source: *The New York Times*, “Seeing Narcissists Everywhere,” August 6, 201
 Photo: Denys Kurbatov/Shutterstock
 
 
+
+![](../images/Karleen newsflash 8 9 13_EDIT-1.jpeg)
