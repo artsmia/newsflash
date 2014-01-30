@@ -32,4 +32,4 @@ This blessed plot, this earth, this realm, this England.
 
 
 
-![](../images/Bortolot_Newsflash_RoyalGirl_7.22.jpg)
+![](../images/Bortolot_Newsflash_RoyalGirl_7.22-1.jpeg)

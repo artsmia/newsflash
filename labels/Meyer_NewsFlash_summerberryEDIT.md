@@ -68,4 +68,4 @@ Ingredients
 
 Source: yummly.com/recipe/Triple-berry-crisp-352474
 
-![](../images/Meyer_NewsFlash_summerberryEDIT.jpg)
+![](../images/Meyer_NewsFlash_summerberryEDIT-1.jpg)

@@ -16,4 +16,6 @@ Source: Andrew Kramer, *New York Times*, July 11, 2013 
 
 
 
-![](../images/NewsFlash_Richard_RussianTiger_7.15.jpg)
+![](../images/NewsFlash_Richard_RussianTiger_7.15-2.jpeg)
+
+![](../images/NewsFlash_Richard_RussianTiger_7.15-1.jpeg)

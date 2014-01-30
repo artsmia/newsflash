@@ -14,4 +14,4 @@ Ancient sources make it clear that the virile Emperor Hadrian had a homosexual r
 
 Photo: Michael Appleton; Source: *New York Times*, June 26, 2013
 
-![](../images/NewsFlash_Feldman_Hadrian6.26EDIT.jpg)
+![](../images/NewsFlash_Feldman_Hadrian6.26EDIT-1.jpeg)

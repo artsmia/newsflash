@@ -17,4 +17,4 @@ Americans weren’t too pleased, either, with the plan to increase efficiency of
 
 Source: Josh Sanburn, *Time*, “The ZIP Code Turns 50”, July 1, 2013
 
-![](../images/NewsFlash_JMeyer_ZIPcodeEDIT.jpg)
+![](../images/NewsFlash_JMeyer_ZIPcodeEDIT-1.PNG)

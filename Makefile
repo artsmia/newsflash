@@ -10,9 +10,12 @@ markdownify:
         echo $$name; \
         textutil -convert html "$$doc" -stdout | \
         ~/.cabal/bin/pandoc -r html -w markdown_github --atx-headers -o "labels/$$name.md"; \
-        image=$$(unzip -l "$$doc" | grep media | awk '{print $$4}' | head -1); \
-        unzip -p "$$doc" "$$image" > images/$$name.jpg; \
-        echo "" >> labels/$$name.md; \
-        echo "![](../images/$$name.jpg)" >> labels/$$name.md; \
-      fi; \
-			done
+        images=$$(unzip -l "$$doc" | grep media | awk '{print $$4}'); \
+				for image in $$images; do \
+						image_name=$$name-$$(echo $$image | sed 's|word/media/image||'); \
+						unzip -p "$$doc" "$$image" > images/$$image_name; \
+						echo "" >> labels/$$name.md; \
+						echo "![](../images/$$image_name)" >> labels/$$name.md; \
+				done; \
+		fi; \
+		done

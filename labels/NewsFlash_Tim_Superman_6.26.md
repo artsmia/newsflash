@@ -14,4 +14,4 @@ Photo credit: Clay Enos
 
 
 
-![](../images/NewsFlash_Tim_Superman_6.26.jpg)
+![](../images/NewsFlash_Tim_Superman_6.26-1.jpeg)

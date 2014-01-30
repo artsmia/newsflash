@@ -10,4 +10,4 @@ Image: Picture: AFP/GETTY IMAGES
 
 Source: Charlotte Cowles, “Kate Middleton’s Revised Due Date, and More Royal Baby News,” NYMag.com, July 16, 2013
 
-![](../images/Bortolot_Newsflash_KateBaby2.jpg)
+![](../images/Bortolot_Newsflash_KateBaby2-1.jpeg)

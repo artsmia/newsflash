@@ -12,4 +12,4 @@ Photo credit: stolen shamelessly; don’t do this
 
 News source: Red Panda Express
 
-![](../images/NewsFlash_Rassieur_Trees.6.27EDIT.jpg)
+![](../images/NewsFlash_Rassieur_Trees.6.27EDIT-1.jpeg)
