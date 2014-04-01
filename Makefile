@@ -4,7 +4,7 @@ sync:
 	rsync -avz /Volumes/Design/PRINT\ PUBLICATIONS/Publications\ 2014/DSN\ Design\ \&\ Editorial_14/NewsFlash_Labels/Edited\ Text/ docxs
 
 markdownify:
-	ls docxs/* | while read doc; do \
+	ls docxs/*doc* | while read doc; do \
       name="$${doc:6:-5}"; \
       if [ ! -f "labels/$$name.md" ]; then \
         echo $$name; \
