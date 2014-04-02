@@ -1,6 +1,6 @@
 SHELL := /usr/local/bin/bash
 
-default: sync markdownify
+default: sync markdownify log
 
 mount:
 	@if [ ! -d /Volumes/Design ]; then \
@@ -27,3 +27,6 @@ markdownify:
 				done; \
 		fi; \
 		done
+
+log:
+	wget --no-check-certificate --output-document=newsflash-labels.csv "https://docs.google.com/a/artsmia.org/spreadsheet/ccc?key=0AkKauoZFdwf9dHVPa1J6OTJlZEVnY1lVMEF6SlVlSUE&usp=drive_web&output=csv"
