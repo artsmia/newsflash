@@ -1,6 +1,14 @@
 SHELL := /usr/local/bin/bash
 
-sync:
+default: sync markdownify
+
+mount:
+	@if [ ! -d /Volumes/Design ]; then \
+		mkdir /Volumes/Design; \
+		mount_smbfs '//10.1.1.97/Design' /Volumes/Design; \
+	fi
+
+sync: mount
 	rsync -avz /Volumes/Design/PRINT\ PUBLICATIONS/Publications\ 2014/DSN\ Design\ \&\ Editorial_14/NewsFlash_Labels/Edited\ Text/ docxs
 
 markdownify:
