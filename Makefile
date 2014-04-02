@@ -30,3 +30,14 @@ markdownify:
 
 log:
 	wget --no-check-certificate --output-document=newsflash-labels.csv "https://docs.google.com/a/artsmia.org/spreadsheet/ccc?key=0AkKauoZFdwf9dHVPa1J6OTJlZEVnY1lVMEF6SlVlSUE&usp=drive_web&output=csv"
+
+assoc:
+	cat newsflash-labels.csv | while read line; do \
+		echo $$line; \
+		terms=$$(echo $$line | csvcut -c 1); \
+		for term in $$terms; do \
+			echo $$term; \
+			ls docxs | grep -i "$$term"; \
+		done; \
+		echo; \
+	done
