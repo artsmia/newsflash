@@ -13,20 +13,20 @@ sync: mount
 
 markdownify:
 	ls docxs/*doc* | while read doc; do \
-      name="$${doc:6:-5}"; \
-      if [ ! -f "labels/$$name.md" ]; then \
-        echo $$name; \
-        textutil -convert html "$$doc" -stdout | \
-        ~/.cabal/bin/pandoc -r html -w markdown_github --atx-headers -o "labels/$$name.md"; \
-        images=$$(unzip -l "$$doc" | grep media | awk '{print $$4}'); \
-				for image in $$images; do \
-						image_name="$$name-$$(echo $$image | sed 's|word/media/image||')"; \
-						unzip -p "$$doc" "$$image" > "images/$$image_name"; \
-						echo "" >> "labels/$$name.md"; \
-						echo "![](../images/$$image_name)" >> "labels/$$name.md"; \
-				done; \
+		name="$${doc:6:-5}"; \
+		if [ ! -f "labels/$$name.md" ]; then \
+			echo $$name; \
+			textutil -convert html "$$doc" -stdout | \
+			~/.cabal/bin/pandoc -r html -w markdown_github --atx-headers -o "labels/$$name.md"; \
+			images=$$(unzip -l "$$doc" | grep media | awk '{print $$4}'); \
+			for image in $$images; do \
+				image_name="$$name-$$(echo $$image | sed 's|word/media/image||')"; \
+				unzip -p "$$doc" "$$image" > "images/$$image_name"; \
+				echo "" >> "labels/$$name.md"; \
+				echo "![](../images/$$image_name)" >> "labels/$$name.md"; \
+			done; \
 		fi; \
-		done
+	done
 
 log:
 	wget --no-check-certificate --output-document=newsflash-labels.csv "https://docs.google.com/a/artsmia.org/spreadsheet/ccc?key=0AkKauoZFdwf9dHVPa1J6OTJlZEVnY1lVMEF6SlVlSUE&usp=drive_web&output=csv"
