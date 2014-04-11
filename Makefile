@@ -33,11 +33,15 @@ log:
 
 assoc:
 	cat newsflash-labels.csv | while read line; do \
-		echo $$line; \
-		terms=$$(echo $$line | csvcut -c 1); \
-		for term in $$terms; do \
-			echo $$term; \
-			ls docxs | grep -i "$$term"; \
-		done; \
-		echo; \
+		file=$$(echo $$line | csvcut -c 9); \
+		if [ '""' == "$$file" ]; then \
+			echo $$(tput setaf 1) $$line $$(tput sgr0); \
+			terms=$$(echo $$line | csvcut -c 1); \
+			author=$$(echo $$line | csvcut -c 2 | cut -d' ' -f2); \
+			for term in $$terms; do \
+				echo $$(tput setaf 2) $$term $$(tput sgr0); \
+				mdfind "$$term AND $$author" -onlyin labels/; \
+			done; \
+			echo; \
+		fi; \
 	done
