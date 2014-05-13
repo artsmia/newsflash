@@ -1,6 +1,6 @@
 SHELL := /usr/local/bin/bash
 
-default: sync markdownify log
+default: sync markdownify update_log
 
 mount:
 	@if [ ! -d /Volumes/Design ]; then \
@@ -28,9 +28,26 @@ markdownify:
 		fi; \
 	done
 
-log:
-	wget --no-check-certificate --output-document=newsflash-labels.csv "https://docs.google.com/a/artsmia.org/spreadsheet/ccc?key=0AkKauoZFdwf9dHVPa1J6OTJlZEVnY1lVMEF6SlVlSUE&usp=drive_web&output=csv"
+log=https://docs.google.com/a/artsmia.org/spreadsheet/ccc?key=0AkKauoZFdwf9dHVPa1J6OTJlZEVnY1lVMEF6SlVlSUE&usp=drive_web
+
+update_log: download_log
+	@open '$(log)'
+	@echo "Update the log then \`make commit\`"
+
+download_log:
+	wget --no-check-certificate --output-document=newsflash-labels.csv "$(log)&output=csv"
 	echo "" >> newsflash-labels.csv
+	make stage_files_in_log
+
+stage_files_in_log:
+	cat newsflash-labels.csv | tail -10 | \
+		csvcut -c9 | grep -v '""' | \
+		while read name; do echo $$name; git add "labels/$$name.md" "images/$$name*"; done
+	git add newsflash-labels.csv
+
+commit: download_log
+	make stage_files_in_log
+	git commit -m "$$(git status -s -- labels | grep '^A' | perl -pe 's|A  labels/(.*?)_.*|\1|' | sort | sed -n '1p;$$p' | sed 's/-/\//g' | paste -sd "—" -)"
 
 assoc:
 	cat newsflash-labels.csv | while read line; do \
