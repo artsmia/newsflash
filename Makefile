@@ -50,7 +50,7 @@ commit: download_log
 	git commit -m "$$(git status -s -- labels | grep '^A' | perl -pe 's|A  labels/(.*?)_.*|\1|' | sort | sed -n '1p;$$p' | sed 's/-/\//g' | paste -sd "—" -)"
 
 assoc:
-	cat newsflash-labels.csv | while read line; do \
+	sed 1d newsflash-labels.csv | while read line; do \
 		file=$$(echo $$line | csvcut -c 9); \
 		if [ '""' == "$$file" ]; then \
 			echo $$(tput setaf 1) $$line $$(tput sgr0); \
