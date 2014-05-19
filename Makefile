@@ -46,11 +46,10 @@ stage_files_in_log:
 	git add newsflash-labels.csv
 
 commit: download_log
-	make stage_files_in_log
 	git commit -m "$$(git status -s -- labels | grep '^A' | perl -pe 's|A  labels/(.*?)_.*|\1|' | sort | sed -n '1p;$$p' | sed 's/-/\//g' | paste -sd "—" -)"
 
 assoc:
-	sed 1d newsflash-labels.csv | while read line; do \
+	tail -n+3 newsflash-labels.csv | while read line; do \
 		file=$$(echo $$line | csvcut -c 9); \
 		if [ '""' == "$$file" ]; then \
 			echo $$(tput setaf 1) $$line $$(tput sgr0); \
