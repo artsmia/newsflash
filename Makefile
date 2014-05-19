@@ -62,3 +62,18 @@ assoc:
 			echo; \
 		fi; \
 	done
+
+object_ids:
+	tail -n+3 newsflash-labels.csv | while read line; do \
+		acc=$$(csvcut -c4 <<<$$line | sed 's/[[:space:]]*$$//; s/^[[:space:]]*//'); \
+		if [ -n "$$acc" -a '""' == $$(csvcut -c5 <<<$$line) -o -z $$(csvcut -c5 <<<$$line) ]; then \
+			result=$$(curl --silent "https://collections.artsmia.org/search_controller.php" -d 'page=search' --data-urlencode "query=$$acc"); \
+			if egrep -q "no result" <<<$$result; then \
+				echo $$acc -- no match; \
+			else \
+				object=$$(jq -r '.message[0]' <<<$$result | cut -d'_' -f1); \
+				sed -i'.bak' "s/$$acc[ ]*,,/$$acc,$$object,/" newsflash-labels.csv; \
+				echo $$acc -- $$object; \
+			fi; \
+		fi; \
+	done
