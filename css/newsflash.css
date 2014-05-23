@@ -1,0 +1,14 @@
+header nav {
+  display: none;
+}
+
+header .site-title {
+  display: block;
+  width: 100%;
+  height: 200px;
+  background: url(newsflash.css) no-repeat;
+}
+
+.post header {
+  display: none;
+}

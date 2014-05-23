@@ -1,0 +1,52 @@
+---
+layout: post
+
+title: World of Warcraft Spying
+object: 59168
+---
+**Elfish Espionage
+**
+
+Careful, not even your warlock avatar’s finest armor can protect you from Big Brother. 
+
+According to leaked N.S.A. documents, American and British spies have infiltrated the fantastical realms of World of Warcraft and Second Life, on the prowl for terrorist and criminal networks that may be using these alternate realities to secretly plot their operations. Though no criminal activity has yet been reported, the spies’ presence prompts us to think a little harder about who’s actually behind that Weathered Observer's Shield.
+
+*—Emma Bauer, audience engagement assistant*
+
+*December 11, 2013*
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+Source: http://www.gamespot.com 
+
+![](../images/13.12.13_Bauer_WorldWarcraftEDIT-1.jpg)

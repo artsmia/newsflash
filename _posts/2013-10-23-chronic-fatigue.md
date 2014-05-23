@@ -1,0 +1,27 @@
+---
+layout: post
+
+title: chronic fatigue
+object: ""
+---
+**Feeling ‘social jet lag’?**
+
+****
+
+What chronotype are you—an early bird, a late-night owl, or some fowl in between? Recent studies show that heeding your nocturnal rhythms is best for your health.
+
+But few of us can set our own schedules, which leads us to develop “social jet lag”—a feeling of being out of sync, drained, and less efficient. Indeed, violating your natural circadian rhythms can contribute to weight gain and all the related hazards. Here’s the good news: November 3 ends daylight saving time, the summertime clock that’s an equal-opportunity sleep disruptor.             *—Diane Richard, writer, October 23*
+
+**
+
+****
+
+****
+
+Image: Getty
+
+Source: GRETCHEN REYNOLDS, “Everyday Jet Lag,” *New York Times*, October 17, 2013
+
+**Curious for more? Visit new.artsmia.org/stories**
+
+![](../images/13-10-23_58.1_SleepEDIT-1.jpeg)

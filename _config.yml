@@ -1,0 +1,10 @@
+# Site settings
+title: Newsflash!
+email: newsflash@artsmia.org
+description: "Arting the news, newsing the art."
+baseurl: ""
+url: "http://newsflash.dx.artsmia.org"
+
+# Build settings
+markdown: kramdown
+permalink: none

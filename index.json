@@ -1,0 +1,11 @@
+---
+thanks: "https://github.com/christian-fei/Simple-Jekyll-Search/blob/master/search.json"
+---
+[{% for post in site.posts %}
+  {
+    "title"    : "{{ post.title | escape }}",
+    "object": "{{post.object}}",
+    "link"     : "http://newsflash.dx.artsmia.org{{ post.url }}",
+    "date"     : "{{ post.date }}"
+  } {% if forloop.last %}{% else %},{% endif %}
+{% endfor %}]

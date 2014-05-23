@@ -77,3 +77,21 @@ object_ids:
 			fi; \
 		fi; \
 	done
+
+posts:
+	tail -n+3 newsflash-labels.csv | while read line; do \
+		date=$$(gdate --date="$$(csvcut -c6 <<<$$line)" '+%Y-%m-%d'); \
+		title=$$(csvcut -c1 <<<$$line); \
+		slug=$$(echo $$title | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
+		id=$$(csvcut -c5 <<<$$line); \
+		file=labels/$$(csvcut -c9 <<<$$line).md; \
+		if [ -f $$file ]; then \
+			echo $$date-$$slug.md; \
+			echo -e "---\\nlayout: post\\n\\ntitle: $$title\\nobject: $$id\\n---" \
+			| cat - "$$file" > _posts/$$date-$$slug.md; \
+		fi; \
+	done
+# slug thanks to http://automatthias.wordpress.com/2007/05/21/slugify-in-a-shell-script/
+
+rsync:
+	rsync -avz _site/ dx:/var/www/newsflash
