@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Tammany Bank \"Little Fat Man\""
+title: "Tammany Bank ""Little Fat Man"""
 object: 81890
 ---
 **Weight of the world?**
