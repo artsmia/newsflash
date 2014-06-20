@@ -1,3 +1,9 @@
+---
+layout: post
+
+title: Digital music
+object: 40283
+---
 **Revenge of the record player?**
 
 ****
