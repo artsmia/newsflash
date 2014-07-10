@@ -16,4 +16,4 @@ Image: Credit Jake Naughton/*The New York Times*
 
 Source: Corey Kilgannon, “Adventurous Couple Arrive in New York From Africa, Merrily, Merrily,” *The New York Times,*June 20
 
-![](../images/14-06-25_75.7_rowersEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-06-25_75.7_rowersEDIT-1.jpeg)

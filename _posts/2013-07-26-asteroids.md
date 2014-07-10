@@ -20,4 +20,4 @@ Photo credit: NASA
 
 News source: huffingtonpost.com/2013/07/15/new-neptune-moon-smallest-photos\_n\_3600177.html
 
-![](../images/13-07-26_2013.19_AsteroidsEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-07-26_2013.19_AsteroidsEDIT-1.jpeg)

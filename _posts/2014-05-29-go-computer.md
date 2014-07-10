@@ -26,4 +26,4 @@ http://www.wired.com/2014/05/the-world-of-computer-go/
 
 
 
-![](../images/14-05-29_97.141_GoComputerEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-05-29_97.141_GoComputerEDIT-1.jpeg)

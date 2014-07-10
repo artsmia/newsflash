@@ -22,4 +22,4 @@ Image: Ira Block/National Geographic
 
 Source: JOHN NOBLE WILFORD “New Clues May Change Buddha’s Date of Birth,” *The New York Times*, November 25, 2013 
 
-![](../images/13.11.26_Richard_BuddhasBDEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.11.26_Richard_BuddhasBDEDIT-1.jpeg)

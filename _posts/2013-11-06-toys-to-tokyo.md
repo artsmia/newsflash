@@ -20,4 +20,4 @@ Image: Courtesy of Unagi Travel
 
 Source: Claudine Zap, “This company will send your stuffed animal on a vacation,” Compass, October 27, 2013 
 
-![](../images/13.11.06_Richard_PandaEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.11.06_Richard_PandaEDIT-1.jpeg)

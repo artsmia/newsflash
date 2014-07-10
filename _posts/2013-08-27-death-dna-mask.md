@@ -20,4 +20,4 @@ Photo: Kari Mulholland/TED
 
 Source: Christina Hernandez Sherwood, “Q&A: Heather Dewey-Hagborg, information artist, on the intersection of art and science,” *Smart Planet*, August 26, 2013
 
-![](../images/13.08.27_Feldman_DeathMaskEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.08.27_Feldman_DeathMaskEDIT-1.jpeg)

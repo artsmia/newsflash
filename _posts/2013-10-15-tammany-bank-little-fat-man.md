@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Tammany Bank ""Little Fat Man"""
+title: "Tammany Bank 'Little Fat Man'"
 object: 81890
 ---
 **Weight of the world?**
@@ -18,4 +18,4 @@ Photo: Corbis 
 
 Source: GINA KOLATA, “In Struggle With Weight, Taft Used a Modern Diet,” *New York Times*, October 15, 2013 
 
-![](../images/13.10.15_Richard_FatTaftEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.15_Richard_FatTaftEDIT-1.jpeg)

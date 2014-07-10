@@ -18,4 +18,4 @@ Image: Jean Chung for the *New York Times*
 
 Source: CHOE SANG-HUN, “Hardy Divers in Korea Strait, ‘Sea Women’ Are Dwindling,” *New York Times,*March 29
 
-![](../images/14-04-2_2010.83_SeaWomenEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-04-2_2010.83_SeaWomenEDIT-1.jpeg)

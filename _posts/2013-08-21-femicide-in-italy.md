@@ -22,4 +22,4 @@ Source: ELISABETTA POVOLEDO, “A Call for Aid, Not Laws, to Help Women in Italy
 
 *New York Times*, August 18, 2013 
 
-![](../images/13.08.21_Richard_FemicideItalyEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.08.21_Richard_FemicideItalyEDIT-1.jpeg)

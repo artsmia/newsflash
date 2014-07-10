@@ -24,8 +24,8 @@ Source: JACKIE CALMES, “Obama and a Soldier: 3 Meetings, and a Lesson in Resil
 
 *New York Times*, August 22, 2013 
 
-![](../images/13.08.27_Richard_WarriorEDIT-3.jpeg)
+![]({{siteurl.base}}/images/13.08.27_Richard_WarriorEDIT-3.jpeg)
 
-![](../images/13.08.27_Richard_WarriorEDIT-2.jpeg)
+![]({{siteurl.base}}/images/13.08.27_Richard_WarriorEDIT-2.jpeg)
 
-![](../images/13.08.27_Richard_WarriorEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.08.27_Richard_WarriorEDIT-1.jpeg)

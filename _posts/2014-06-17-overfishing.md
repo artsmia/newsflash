@@ -20,4 +20,4 @@ Image: Reuters/Aly Song
 
 Source: Gwynn Guilford, “Fish can slow down global warming—but not if we keep eating them,” *Quartz*, June 5, 2014
 
-![](../images/14-06-17_82.84_OverfishingEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-06-17_82.84_OverfishingEDIT-1.jpg)

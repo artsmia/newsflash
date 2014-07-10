@@ -20,4 +20,4 @@ Photo: "Illustration of bubonic plague in the Bible" (1411), WikiCommons (German
 
 Source: DONALD G. McNEIL Jr., “United States Ranks 11th in Plague Cases Worldwide,” *New York Times*, September 17, 2013 
 
-![](../images/13.09.19_Richard_PlagueEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.09.19_Richard_PlagueEDIT-1.jpeg)

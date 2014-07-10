@@ -18,4 +18,4 @@ Yes, a metal-detector-toting amateur archaeologist recently turned up a million-
 
 Source: The Independent, February 20, 2014
 
-![](../images/14-02-20_76.73.78_treasureEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-02-20_76.73.78_treasureEDIT-1.jpg)

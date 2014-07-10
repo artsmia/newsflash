@@ -20,4 +20,4 @@ Image: Rebecca Kessler for *The New York Times*
 
 Source: Rebecca Kessler, ”A Wealth of Data in Whale Breath,” *The New York Times*, 9/30/13 
 
-![](../images/13.10.10_Bortolot_WhalesEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.10_Bortolot_WhalesEDIT-1.jpeg)

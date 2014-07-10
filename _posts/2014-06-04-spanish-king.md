@@ -18,4 +18,4 @@ Image: Gerard Julien
 
 Source: Raphael Minder, “New King or, Spaniards Ask, Is It Time for No King?,” *The New York Times,*June 2
 
-![](../images/14-06-4_52.14_SpanishKingEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-06-4_52.14_SpanishKingEDIT-1.jpeg)

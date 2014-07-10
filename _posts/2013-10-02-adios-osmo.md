@@ -18,4 +18,4 @@ Photo: *Star Tribune* 
 
 Source: GRAYDON ROYCE, “Osmo Vänskä’s Departure Shakes Minnesota Orchestra,” *Star Tribune*, October 2, 2013 
 
-![](../images/13.10.03_Richard_MNOrchEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.03_Richard_MNOrchEDIT-1.jpeg)

@@ -22,4 +22,4 @@ Image: Michael Ochs Archives
 
 Source: Harry Smith, “Maya Angelou Was Always Generous,” *NBC News*, May 28
 
-![](../images/14-06-03_P.99.12.2_MayaAngelou-1.jpg)
+![]({{siteurl.base}}/images/14-06-03_P.99.12.2_MayaAngelou-1.jpg)

@@ -22,4 +22,4 @@ Photo: NPR, CDC/NCHS, National Health and Nutrition Examination Survey and NHANE
 
 Source: Nancy Shute, “Teens Are Becoming Even Wimpier Than Before,” *National Public Radio,*May 28
 
-![](../images/14-06-04_51.18_WimpyKidsEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-06-04_51.18_WimpyKidsEDIT-1.jpeg)

@@ -18,4 +18,4 @@ The issue, of course, is that applications are outpacing seats. The University o
 
 Source: New York Times, April 9, 2014
 
-![](../images/14-04-9_98.61.2_EliteSchoolsEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-04-9_98.61.2_EliteSchoolsEDIT-1.jpg)

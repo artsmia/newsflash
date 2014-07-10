@@ -18,4 +18,4 @@ Though some of the artifacts had reportedly been looted already or removed for s
 
 Source: Thedailybeast.com, May 27, 2014
 
-![](../images/14-05-29_2003.165.1a-c _SynagogueLostEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-05-29_2003.165.1a-c _SynagogueLostEDIT-1.jpg)

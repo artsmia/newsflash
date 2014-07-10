@@ -18,4 +18,4 @@ And now it’s coming down. Seems the wealthy owner of a chain of traditional Ch
 
 Source: New York Times, August 13, 2013
 
-![](../images/13-08-15_88.85.2_ApartmentmountainEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-08-15_88.85.2_ApartmentmountainEDIT-1.jpeg)

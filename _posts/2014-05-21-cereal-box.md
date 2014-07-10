@@ -22,4 +22,4 @@ Image: Paul Sakuma/Associated Press
 
 Source: Rachel Nuwer, “Cap’n Crunch Is Looking at You,” *The New York Times,*April 21
 
-![](../images/14-05-21_67.53_cerealEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-05-21_67.53_cerealEDIT-1.jpeg)

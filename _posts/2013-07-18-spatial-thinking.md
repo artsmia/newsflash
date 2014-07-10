@@ -22,4 +22,4 @@ Source: Douglas Quenqua, *New York Times*, July 15, 2013 
 
 
 
-![](../images/NewsFlash_Richard_SpatialThink_EDIT-1.jpeg)
+![]({{siteurl.base}}/images/NewsFlash_Richard_SpatialThink_EDIT-1.jpeg)

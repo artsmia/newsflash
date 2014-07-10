@@ -20,4 +20,4 @@ Image: California State Parks Museum Collections, 309-335-196
 
 Source: http://www.popsci.com/article/science/way-put-toxic-museum-artifacts-back-their-original-owners-hands
 
-![](../images/14-05-28_PoisonedArtifactsEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-05-28_PoisonedArtifactsEDIT-1.jpeg)

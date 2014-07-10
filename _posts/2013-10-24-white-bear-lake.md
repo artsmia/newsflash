@@ -20,4 +20,4 @@ Source: Jim Anderson, “Mississippi River might be tapped to help White Bear La
 
 *Star Tribune*, 8/31/2013 
 
-![](../images/13.10.22.Kern.WhitebearLakeEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.22.Kern.WhitebearLakeEDIT-1.jpeg)

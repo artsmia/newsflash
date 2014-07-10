@@ -16,4 +16,4 @@ Image: Keystone/Getty Images
 
 Source: Peter Baker, “For Obama Presidency, Lyndon Johnson Looms Large,” *New York Times,*April 8
 
-![](../images/14-04-10_86.110.3_CivRtsActEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-04-10_86.110.3_CivRtsActEDIT-1.jpeg)

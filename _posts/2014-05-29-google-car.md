@@ -22,4 +22,4 @@ www.slate.com/blogs/future\_tense/2014/05/28/google\_self\_driving\_car\_prototy
 
 
 
-![](../images/14-05-28_2005.138_DriverlessCarEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-05-28_2005.138_DriverlessCarEDIT-1.jpeg)

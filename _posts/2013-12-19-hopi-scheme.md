@@ -20,4 +20,4 @@ Image: Joel Saget/Agence France-Presse — Getty Images
 
 Source: TOM MASHBERG, “Secret Bids Guide Hopi Indians’ Spirits Home,” *New York Times*, December 16, 2013 
 
-![](../images/13-12-18_2010.1_HopiEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-12-18_2010.1_HopiEDIT-1.jpeg)

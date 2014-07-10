@@ -20,4 +20,4 @@ Image: Alessandro Grassani for *The New York Times*
 
 Source: ELISABETTA POVOLEDO, “Moving Leonardo’s Horse: A Question of Logistics or Pedigree?” *New York Times*, February 23, 2014
 
-![](../images/14-02-27_79.13_DaVinciHorseEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-02-27_79.13_DaVinciHorseEDIT-1.jpeg)

@@ -22,4 +22,4 @@ Enter cyber rocks. Recently, a videogame developer created “Rock Simulator 201
 
 **Source: Laura Hudson, “Finally, a Videogame That Simulates Being a Rock,”*****Wired*****, June 2****7, 2014**
 
-![](../images/14-07-01_98.81.2_rockvideogameEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-07-01_98.81.2_rockvideogameEDIT-1.jpeg)

@@ -18,4 +18,4 @@ Photo credit: Golden Cosmos
 
 News source: Stephen Marche, “The Case for Filth,” *New York Times*, December 7, 2013
 
-![](../images/13.12.12Clean_GendronEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.12.12Clean_GendronEDIT-1.jpeg)

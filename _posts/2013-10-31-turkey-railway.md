@@ -20,4 +20,4 @@ But these ambitions have already gotten him in trouble: this summer, his plans t
 
 Source: cnn.com, October 29, 2013
 
-![](../images/13.10.31_Gihring_turkeyEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.31_Gihring_turkeyEDIT-1.jpeg)

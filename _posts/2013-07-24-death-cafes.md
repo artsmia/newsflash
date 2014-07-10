@@ -20,4 +20,4 @@ Photo: Jerry Holt, *Star Tribune*
 
 Source: Bill Ward, “The Death Cafe discussion group steers its members on how to live,” *Star Tribune*, July 24, 2013 
 
-![](../images/NewsFlash_Algeo_DeathCafeEDIT-1.jpeg)
+![]({{siteurl.base}}/images/NewsFlash_Algeo_DeathCafeEDIT-1.jpeg)

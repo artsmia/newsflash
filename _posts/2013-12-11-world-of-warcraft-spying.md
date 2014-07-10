@@ -49,4 +49,4 @@ According to leaked N.S.A. documents, American and British spies have infiltrate
 
 Source: http://www.gamespot.com 
 
-![](../images/13.12.13_Bauer_WorldWarcraftEDIT-1.jpg)
+![]({{siteurl.base}}/images/13.12.13_Bauer_WorldWarcraftEDIT-1.jpg)

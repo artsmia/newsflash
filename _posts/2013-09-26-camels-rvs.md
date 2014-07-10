@@ -22,4 +22,4 @@ Image: Kevin Lee/Bloomberg 
 
 Source: Bloomberg News, ”China’s Generation Winnebago Avoids Traffic in RVs,” 9/23/13 
 
-![](../images/13.9.25_Bortolot_CamelsRVEDIT_-1.jpeg)
+![]({{siteurl.base}}/images/13.9.25_Bortolot_CamelsRVEDIT_-1.jpeg)

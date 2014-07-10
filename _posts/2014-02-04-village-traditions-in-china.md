@@ -18,4 +18,4 @@ Image: Sim Chi Yin for The New York Times
 
 Source: Ian Johnson, “In China, ‘Once the Villages Are Gone, the Culture Is Gone’,” *New York Times*, February 1, 2014
 
-![](../images/14-02-12_98.61.1_WuEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-02-12_98.61.1_WuEDIT-1.jpeg)

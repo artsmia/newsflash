@@ -17,4 +17,4 @@ Image: Joel Koyama, *Star Tribune*
 
 Source: KEVIN DUCHSCHERE, “Amtrak to begin operating out of Union Depot starting May 7,”*Star Tribune,*April 2
 
-![](../images/14-04-16_93.70.52_AmtrakEDIT-1.JPG)
+![]({{siteurl.base}}/images/14-04-16_93.70.52_AmtrakEDIT-1.JPG)

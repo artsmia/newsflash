@@ -18,4 +18,4 @@ According to the Treatment Advocacy Center, cutbacks in mental health funding le
 
 Source: Gary Fields & Erica E. Phillips, “The New Asylums: Jails Swell With Mentally Ill,” *The Wall Street Journal*, 9/25/2013 
 
-![](../images/13.10.17.Kearns.MentalIllnessEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.17.Kearns.MentalIllnessEDIT-1.jpeg)

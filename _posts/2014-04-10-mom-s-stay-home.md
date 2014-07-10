@@ -21,4 +21,4 @@ Image: Pew Resource Center
 
 Source: Jess Bidgood, “Number of Mothers in U.S. Who Stay at Home Rises,” *New York Times,*April 8
 
-![](../images/14-04-9_L2011.20.5_StayHomeMomEDIT-1.png)
+![]({{siteurl.base}}/images/14-04-9_L2011.20.5_StayHomeMomEDIT-1.png)

@@ -19,4 +19,4 @@ Image: Shefayee/Agence France-Presse — Getty Images
 
 Source: Rod Nordland, “Countries Divided on Future of Ancient Buddhas,” *New York Times,*March 22, 2014
 
-![](../images/14-03-26_2001.153_BamianEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-03-26_2001.153_BamianEDIT-1.jpeg)

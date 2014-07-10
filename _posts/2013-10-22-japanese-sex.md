@@ -20,4 +20,4 @@ Photograph: Eric Rechsteiner
 
 Source: Abigail Haworth, “Why have young people in Japan stopped having sex?” *The Guardian*, October 19, 2013 
 
-![](../images/13.10.22_Richard_JapanSexEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.22_Richard_JapanSexEDIT-1.jpeg)

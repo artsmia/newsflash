@@ -46,4 +46,4 @@ Famous portraits like this, which captured the fathers much later in life when t
 
 Source: *Slate*, August 20, 2013
 
-![](../images/130821 NewsFlash_Gihring_FoundingFathers_EDIT-1.jpeg)
+![]({{siteurl.base}}/images/130821 NewsFlash_Gihring_FoundingFathers_EDIT-1.jpeg)

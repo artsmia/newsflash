@@ -18,4 +18,4 @@ Image: Sim Chi Yin for *The New York Times*
 
 Source: DAN LEVIN, “Many in China Can Now Have a Second Child, but Say No,” *New York Times*, February 26, 2014
 
-![](../images/14-02-26_2005.54.3_ChinaBabyEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-02-26_2005.54.3_ChinaBabyEDIT-1.jpeg)

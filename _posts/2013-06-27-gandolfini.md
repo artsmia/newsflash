@@ -22,4 +22,4 @@ Photo: Anthony Neste/HBO 
 
 Source:“James Gandolfini Dead: Fans Flock to ‘The Sopranos’ Diner in New Jersey to Pay Tribute,” ABC News, June 26, 2013
 
-![](../images/NewsFlash_Feldman_Gandolfini6.26.2EDIT-1.jpeg)
+![]({{siteurl.base}}/images/NewsFlash_Feldman_Gandolfini6.26.2EDIT-1.jpeg)

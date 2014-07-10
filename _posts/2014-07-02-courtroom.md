@@ -16,4 +16,4 @@ Image: Elizabeth Williams. © 2014 NPR 
 
 Source: Rachel Martin, “'The Illustrated Courtroom' Finds Art In Real-Life Legal Drama,” National Public Radio*,*June 22
 
-![](../images/14-07-01_58.35_courtroomEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-07-01_58.35_courtroomEDIT-1.jpeg)

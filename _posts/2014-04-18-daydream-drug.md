@@ -18,4 +18,4 @@ Advocates say school performance could be enhanced. Others see a fad or merely a
 
 Source: New York Times, April 12, 2014
 
-![](../images/14-04-10_61.24_DaydreamEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-04-10_61.24_DaydreamEDIT-1.jpeg)

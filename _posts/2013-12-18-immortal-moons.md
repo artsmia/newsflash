@@ -18,4 +18,4 @@ Photo: Cctv, via Agence France-Presse — Getty Images
 
 Source: CHRIS BUCKLEY, “As Rover Lands, China Joins Moon Club,” *New York Times,* December 14, 2013 
 
-![](../images/13-12-18_2004.132.4_JadeMoonEDIT-1.jpg)
+![]({{siteurl.base}}/images/13-12-18_2004.132.4_JadeMoonEDIT-1.jpg)

@@ -18,4 +18,4 @@ Image: Thibault Camus/Associated Press
 
 Source: Alissa J. Rubin, “On Bridges in Paris, Clanking With Love,” *The New York Times,*April 27
 
-![](../images/14-04-29_61.36.15_BridgeEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-04-29_61.36.15_BridgeEDIT-1.jpeg)

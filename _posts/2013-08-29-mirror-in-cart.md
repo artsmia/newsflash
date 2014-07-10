@@ -20,4 +20,4 @@ Source: MICHAEL MOSS, “Nudged to the Produce Aisle by a Look in the Mirror,”
 
 *New York Times*, August 27, 2013 
 
-![](../images/13.08.29_Richard_ShoppingCartEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.08.29_Richard_ShoppingCartEDIT-1.jpeg)

@@ -22,4 +22,4 @@ Source: SCOTT SAYARE, “As Wolves Return to French Alps, a Way of Life Is Threa
 
 *New York Times*, September 4, 2013 
 
-![](../images/13.09.03_Richard_ShepherdEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.09.03_Richard_ShepherdEDIT-1.jpeg)

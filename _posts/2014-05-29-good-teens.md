@@ -18,4 +18,4 @@ Mind you, the numbers are limited to health: an all-time low teen birth rate, dr
 
 Source: Vox.com, May 29, 2014
 
-![](../images/14-05-29_74.8_GoodTeensEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-05-29_74.8_GoodTeensEDIT-1.jpg)

@@ -18,4 +18,4 @@ Image: SPL
 
 Source: DONALD G. McNEIL Jr., “Saudi Arabia: MERS Virus Found in Patient’s Pet Camel,” *New York Times*, November 11, 2013 
 
-![](../images/13.11.13_Richard_CamelMersEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.11.13_Richard_CamelMersEDIT-1.jpeg)

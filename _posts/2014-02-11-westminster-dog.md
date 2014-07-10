@@ -16,4 +16,4 @@ Image: Timothy Clary/AFP/Getty Images
 
 Source: Jim Buchta and Janet Moore, “Twin Cities apartment developers offer amenities for Fido,” Star Tribune, February 7, 2014
 
-![](../images/14-02-11_2006.33.WestminsterEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-02-11_2006.33.WestminsterEDIT-1.jpeg)

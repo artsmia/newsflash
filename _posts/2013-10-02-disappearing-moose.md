@@ -20,4 +20,4 @@ Source: *Star Tribune*, September 28, 2013. 
 
 
 
-![](../images/13.10.03_Gihring_MooseEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.03_Gihring_MooseEDIT-1.jpeg)

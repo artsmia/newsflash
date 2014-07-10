@@ -20,4 +20,4 @@ Image: REUTERS/VIJAY MATHUR/FILES
 
 Source: JO WINTERBOTTOM AND MEENAKSHI SHARMA, “Special Report: In the land of the holy cow, fury over beef exports,” Reuters, December 11, 2013 
 
-![](../images/13-12-18_57.12_IndiaBeefEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-12-18_57.12_IndiaBeefEDIT-1.jpeg)

@@ -18,4 +18,4 @@ Image: David Joles
 
 Source: Jim Anderson and Paul Walsh, “Police: Deer-feeding feud leads to homicide in New Brighton,” *Star Tribune,*May 7
 
-![](../images/14-05-06_14.76_DeerEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-05-06_14.76_DeerEDIT-1.jpeg)

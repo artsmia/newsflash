@@ -24,4 +24,4 @@ Source: GRETCHEN REYNOLDS, “Everyday Jet Lag,” *New York Times*, October 17,
 
 **Curious for more? Visit new.artsmia.org/stories**
 
-![](../images/13-10-23_58.1_SleepEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-10-23_58.1_SleepEDIT-1.jpeg)

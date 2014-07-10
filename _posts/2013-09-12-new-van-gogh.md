@@ -24,4 +24,4 @@ Source: npr.org, September 9, 2013
 
 Photo: Olaf Kraak / AFP / Getty Images
 
-![](../images/13.09.12_VanGogh_Gihring-1.jpeg)
+![]({{siteurl.base}}/images/13.09.12_VanGogh_Gihring-1.jpeg)

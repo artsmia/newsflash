@@ -20,4 +20,4 @@ Wine consumption is down too, and the last Gauloise cigarette factory closed in 
 
 Image: Agnes Dherbeys  Source: The New York Times, PARIS JOURNAL: A French Dining Staple Is Losing Its Place at the Table, July 30, 2013
 
-![](../images/13-08-01_93.2_BaguetteExtinctionEDIT-1.png)
+![]({{siteurl.base}}/images/13-08-01_93.2_BaguetteExtinctionEDIT-1.png)

@@ -16,4 +16,4 @@ Image: Andrew Testa for The New York Times
 
 Source: KIMIKO DE FREYTAS-TAMURA, “As a British Pastime Is Revived, Some Critters Get Second Lives,” *The New York Times,*June 8
 
-![](../images/14-06-17_2008.79_TaxidermyEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-06-17_2008.79_TaxidermyEDIT-1.jpeg)

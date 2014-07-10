@@ -22,4 +22,4 @@ Image: Anthony Lee/Getty Images
 
 Source: Gretchen Reynolds, ” How Walking May Lower Breast Cancer Risk,” *New York Times*, 10/9/13 
 
-![](../images/13.10.10_Bortolot_BreastCancer-1.jpeg)
+![]({{siteurl.base}}/images/13.10.10_Bortolot_BreastCancer-1.jpeg)

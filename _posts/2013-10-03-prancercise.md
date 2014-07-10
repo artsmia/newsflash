@@ -20,4 +20,4 @@ Photo: Still of Prancercise video 
 
 Source: VICKY HALLETT, “After viral video, Prancercise ready for its next adventure,” *Washington Post,* September 26, 2013 
 
-![](../images/13-10-03_98.19_PranceEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-10-03_98.19_PranceEDIT-1.jpeg)

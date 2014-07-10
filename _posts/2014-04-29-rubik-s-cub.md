@@ -18,4 +18,4 @@ Image: Fred R. Conrad/*The New York Times*
 
 Source: James Barron, “A Cube With a Twist: At 40, It Puzzles Anew,” *The New York Times,*April 25
 
-![](../images/14-04-29_65.5_RubikEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-04-29_65.5_RubikEDIT-1.jpeg)

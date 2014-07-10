@@ -20,4 +20,4 @@ Image: Robin Neilly/Getty Images
 
 Source: Jacob Davidson, “The U.S.’s Clown Shortage Is No Laughing Matter,” *Time*, February 18, 2014
 
-![](../images/14-02-20_61.6_ClownEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-02-20_61.6_ClownEDIT-1.jpeg)

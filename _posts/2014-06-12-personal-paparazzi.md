@@ -18,4 +18,4 @@ Yes, it’s no longer enough to hire pros to shoot your wedding, your bar mitzva
 
 Source: Associated Press, June 10, 2014
 
-![](../images/14-06-12_90.133.1PersonalPaparazziEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-06-12_90.133.1PersonalPaparazziEDIT-1.jpg)

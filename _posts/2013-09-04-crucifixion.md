@@ -22,4 +22,4 @@ Photo: Reuters/Jorge Adorno
 
 Source: JACKIE CALMES, “Fired Paraguayan bus drivers have themselves nailed to crosses,” *Reuters*, August 30, 2013 
 
-![](../images/13-09-04_79.19_CrucifixionEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-09-04_79.19_CrucifixionEDIT-1.jpeg)

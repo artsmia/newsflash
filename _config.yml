@@ -7,4 +7,4 @@ url: "http://newsflash.dx.artsmia.org"
 
 # Build settings
 markdown: kramdown
-permalink: none
+permalink: /:year/:month/:title/

@@ -20,4 +20,4 @@ Image: Prakash Singh/Agence France-Presse — Getty Images
 
 Source: ELLEN BARRY and HARI KUMAR, “Tiger Population Grows in India, as Does Fear After Attacks,” *New York Times*, February 11, 2014
 
-![](../images/14-02-12_2012.1.1_TigerEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-02-12_2012.1.1_TigerEDIT-1.jpeg)

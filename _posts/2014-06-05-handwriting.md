@@ -22,4 +22,4 @@ Photo credit: Karin James, *The New York Times*
 
 Source: MARIA KONNIKOVA, “What’s Lost as Handwriting Fades,” *The New York Times,*June 2
 
-![](../images/14-06-5_98.169.2.3_HandwrtgEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-06-5_98.169.2.3_HandwrtgEDIT-1.jpeg)

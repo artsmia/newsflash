@@ -18,4 +18,4 @@ The poaching has forced the closure of scenic roads through the redwoods at nigh
 
 Source: New York Times, April 8, 2014
 
-![](../images/14-04-9_81.3_RedwoodBurlsEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-04-9_81.3_RedwoodBurlsEDIT-1.jpg)

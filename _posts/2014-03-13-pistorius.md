@@ -21,4 +21,4 @@ Controversies surrounding the trial range from incriminating witness testimony t
 
 News source:**David Smith. “Oscar Pistorius: a runaway interpreter, then the trial of the century begins.” *The Guardian,* March 3, 2014. **
 
-![](../images/14-03-13_86.6_PistoriusEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-03-13_86.6_PistoriusEDIT-1.jpeg)

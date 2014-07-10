@@ -18,4 +18,4 @@ So Young invented his own “high resolution” digital music player, recently u
 
 Source: CBS, March 11, 2014
 
-![](../images/14-03-13_98.276.162 _DigitalMusic-1.png)
+![]({{siteurl.base}}/images/14-03-13_98.276.162 _DigitalMusic-1.png)

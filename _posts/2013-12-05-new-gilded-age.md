@@ -20,4 +20,4 @@ The modern-day Gilded Age is upon us. Yet for many Americans, the availability o
 
 Source: “Wealth distribution in US rivals a modern day Gilded Age,” *My Budget 360*
 
-![](../images/13-12-03_78.7_GildedAgeEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-12-03_78.7_GildedAgeEDIT-1.jpeg)

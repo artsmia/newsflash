@@ -20,4 +20,4 @@ Image: Chip Somodevilla/Getty Images
 
 Source: Katy Waldman, ”Are Soldiers Too Emotionally Attached to Military Robots?” salon.com, 9/20/13 
 
-![](../images/13-09-26_51.37.29_SoldierRobotEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-09-26_51.37.29_SoldierRobotEDIT-1.jpeg)

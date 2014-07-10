@@ -20,4 +20,4 @@ Image: © 2013 The New York Times Company
 
 Source: Dune Lawrence, Wenxin Fan, “The Other Side of an \$80 Million Art Fraud: A Master Forger Speaks,” *Bloomberg News*, December 19, 2013
 
-![](../images/13-12-30_2012.76a-c_forgeryEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-12-30_2012.76a-c_forgeryEDIT-1.jpeg)

@@ -22,4 +22,4 @@ Photo: Reuters
 
 Source: Ian Sample, “Animal protein-rich diets could be a as harmful to health as smoking,” *The Guardian*, March 4, 2104 
 
-![](../images/14-03-06_57.12_MeatEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-03-06_57.12_MeatEDIT-1.jpg)

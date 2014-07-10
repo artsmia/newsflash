@@ -18,4 +18,4 @@ Image: Reuters
 
 Source: Mischa Moselle, “China becomes world's second biggest consumer of high-priced wine,” *South China Morning Post,*April 9
 
-![](../images/14-04-9_50.46.45_WineinChinaEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-04-9_50.46.45_WineinChinaEDIT-1.jpeg)

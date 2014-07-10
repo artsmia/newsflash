@@ -20,4 +20,4 @@ Image: Lars Leetaru
 
 Source: Helene Stapinski, “I Had Alice in Wonderland Syndrome,” *The New York Times*, June 23, 2014
 
-![](../images/14-06-26_L2013.87_AliceInWonderlandEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-06-26_L2013.87_AliceInWonderlandEDIT-1.jpg)

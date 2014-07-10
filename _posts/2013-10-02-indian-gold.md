@@ -20,4 +20,4 @@ Photo: D. Jose
 
 Source: “Gods forbid: India's temples guard their gold from government,” REUTERS, September 29, 2013 
 
-![](../images/13-10-03_92.132.1_IndianGoldEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-10-03_92.132.1_IndianGoldEDIT-1.jpeg)

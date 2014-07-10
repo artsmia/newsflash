@@ -20,6 +20,6 @@ Images: Agence France-Presse & FP
 
 Source: “Breast implants: PIP's Jean-Claude Mas gets jail sentence,” BBC News Europe, December 10, 2013 
 
-![](../images/13.12.11_Richard_BreastImplantEDIT-2.jpeg)
+![]({{siteurl.base}}/images/13.12.11_Richard_BreastImplantEDIT-2.jpeg)
 
-![](../images/13.12.11_Richard_BreastImplantEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.12.11_Richard_BreastImplantEDIT-1.jpeg)

@@ -18,4 +18,4 @@ Image: Gilles Sabrie for *The New York Times*
 
 Source: Edward Wong, “Outlasting Dynasties, Now Emerging From Soot,” *The New York Times,*May 17
 
-![](../images/14-06-3_46.23.1a-d_relicsEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-06-3_46.23.1a-d_relicsEDIT-1.jpeg)

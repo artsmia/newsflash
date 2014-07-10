@@ -18,4 +18,4 @@ Image: Reuters/Simon Newman 
 
 Source: Hannah Newman, “Why not even exercise will undo the harm of sitting all day—and what you can do about it,” *Quartz/The Atlantic,*June 26
 
-![](../images/14-07-02_99.62.1_TortureChairEDIT-1.png)
+![]({{siteurl.base}}/images/14-07-02_99.62.1_TortureChairEDIT-1.png)

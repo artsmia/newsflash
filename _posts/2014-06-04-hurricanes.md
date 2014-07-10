@@ -18,4 +18,4 @@ Study participants told that a Hurricane Danny was approaching were more likely 
 
 Source: Los Angeles Times, June 2, 2014
 
-![](../images/14-06-04_23.3d_HurricanesEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-06-04_23.3d_HurricanesEDIT-1.jpg)

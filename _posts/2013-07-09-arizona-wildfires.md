@@ -18,4 +18,4 @@ So, what’s changed? Increased drought. Reduced fire suppression resources. And
 
 Source:“As Arizona fire rages, scientists warn of more unpredictable blazes,” *LA Times*, July 3, 2013
 
-![](../images/NewsFlash_ATR_ArizFire_7.9_EDIT-1.jpeg)
+![]({{siteurl.base}}/images/NewsFlash_ATR_ArizFire_7.9_EDIT-1.jpeg)

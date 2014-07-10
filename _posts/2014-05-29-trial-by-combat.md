@@ -22,4 +22,4 @@ Image: Wikimedia Commons, *Gerichtlicher Zweikampf.jpg*
 
 www.slate.com/blogs/moneybox/2014/05/19/game\_of\_thrones\_season\_4\_episode\_7\_the\_real\_life\_advantages\_of\_trial\_by.html
 
-![](../images/14-05-28_TrialByCombatEDIT-1.png)
+![]({{siteurl.base}}/images/14-05-28_TrialByCombatEDIT-1.png)

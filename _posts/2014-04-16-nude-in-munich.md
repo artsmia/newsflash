@@ -17,4 +17,4 @@ Image: Reuters
 
 Source: Feargus O’Sullivan, “Why Munich Went Ahead and Set Up 6 Official 'Urban Naked Zones',”*The Atlantic,*April 11
 
-![](../images/14-04-16_80.27_NudeParkEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-04-16_80.27_NudeParkEDIT-1.jpeg)

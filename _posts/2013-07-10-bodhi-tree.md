@@ -22,4 +22,4 @@ Photo: Agence France-Presse — Getty Images
 
 Source: “Series of Explosions Rocks Buddhist Temple in India,” New York Times, July 8, 2013 
 
-![](../images/NewsFlash_Richard_BodhiTemple7.10-1.jpeg)
+![]({{siteurl.base}}/images/NewsFlash_Richard_BodhiTemple7.10-1.jpeg)

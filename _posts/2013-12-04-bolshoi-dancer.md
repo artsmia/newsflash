@@ -20,4 +20,4 @@ Image: Maxim Shipenkov/European Pressphoto Agency
 
 Source: Andrew Roth, “Bolshoi Dancer Gets Six Years in Acid Attack on Director,” *The New York Times*, December 4, 2013 
 
-![](../images/13-12-04_56.8_BolshoiEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-12-04_56.8_BolshoiEDIT-1.jpeg)

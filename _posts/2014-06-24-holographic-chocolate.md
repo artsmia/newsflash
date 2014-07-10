@@ -24,4 +24,4 @@ Source: MELISSA PANDIKA, “Holographic Chocolates Look As Beautiful As They Tas
 
 
 
-![](../images/14-06-24_97.92.6_holographicchocEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-06-24_97.92.6_holographicchocEDIT-1.jpeg)

@@ -24,4 +24,4 @@ Photo: Armin Smailovic for the*International Herald Tribune*
 
 Source: MELISSA EDDY, “Dirndl, Dress of Past, Makes a Comeback in Bavaria,” *New York Times*, September 28, 2013 
 
-![](../images/13.10.03_Richard_DirndlEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.03_Richard_DirndlEDIT-1.jpeg)

@@ -18,4 +18,4 @@ The Moomin Cafe supplies the stuffed animals, which aren’t actually teddy-bear
 
 Source: BusinessInsider.com, April 28, 2014
 
-![](../images/14-06-20_2007.100_DiningAloneEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-06-20_2007.100_DiningAloneEDIT-1.jpg)

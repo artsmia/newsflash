@@ -15,4 +15,4 @@ To raise the \$125,000 needed to restore the room, the friars—known for their 
 Image: Gaia Pianigiani
  Source: Jim Yardley, “Centuries-Old Church Passes a Digital Collection Plate” *New York Times*, April 2.
 
-![](../images/14-04-3_34.20_KickstarterEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-04-3_34.20_KickstarterEDIT-1.jpg)

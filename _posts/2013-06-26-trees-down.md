@@ -18,4 +18,4 @@ The big storm that hit Friday, June 21, left numerous big trees and branches str
 
 Photo: Mark Vancleave, *Star Tribune*, June 26, 2013
 
-![](../images/NewsFlash_Richard_Trees6.26-1.jpeg)
+![]({{siteurl.base}}/images/NewsFlash_Richard_Trees6.26-1.jpeg)

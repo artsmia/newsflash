@@ -18,4 +18,4 @@ Image: YouTube
 
 Source: Jim Yardley, “A Singing Nun for a Reality TV World,” *The New York Times,*May 6
 
-![](../images/14-05-06_68.11_NunEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-05-06_68.11_NunEDIT-1.jpeg)

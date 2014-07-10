@@ -20,4 +20,4 @@ Source: Salon.com, August 20, 2013
 
 Photo: from Bookshelfies.tumblr.com
 
-![](../images/13.09.13_Bookshelfies_Gihring-1.jpeg)
+![]({{siteurl.base}}/images/13.09.13_Bookshelfies_Gihring-1.jpeg)

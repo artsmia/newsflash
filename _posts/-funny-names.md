@@ -22,4 +22,4 @@ Photo: Beaglehole the elder (Shamus’ dad)
 
 Source: http://www.nameoftheyear.com/2014/04/your-and-our-2014-name-of-year.html
 
-![](../images/14-05-05_2008.84_NamesEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-05-05_2008.84_NamesEDIT-1.jpeg)

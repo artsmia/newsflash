@@ -18,4 +18,4 @@ Now there’s proof: British researchers tested volunteers who drank alcohol or 
 
 Source: Jezebel.com, May 14, 2014
 
-![](../images/14-05-15_32.21.7 _BeerGogglesEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-05-15_32.21.7 _BeerGogglesEDIT-1.jpg)

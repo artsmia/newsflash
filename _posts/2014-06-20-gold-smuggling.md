@@ -18,4 +18,4 @@ How do smugglers bring it in? That’s the interesting part: hidden under the to
 
 Source: Qz.com, June 16, 2014
 
-![](../images/14-06-20_92.132.1_GoldSmugglingEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-06-20_92.132.1_GoldSmugglingEDIT-1.jpg)

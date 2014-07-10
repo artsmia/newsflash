@@ -24,6 +24,6 @@ The chapel and its picturesque surroundings were a favorite getaway for John Pau
 
 Image: SANPIETROALLENCIA.IT & EPA Source: http://www.bbc.co.uk/news/world-europe-25911872
 
-![](../images/14.01.28_Bortolot_PopeRelicEDIT-2.jpeg)
+![]({{siteurl.base}}/images/14.01.28_Bortolot_PopeRelicEDIT-2.jpeg)
 
-![](../images/14.01.28_Bortolot_PopeRelicEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14.01.28_Bortolot_PopeRelicEDIT-1.jpeg)

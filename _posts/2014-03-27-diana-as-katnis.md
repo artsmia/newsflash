@@ -18,4 +18,4 @@ Image: Gretchen Ertl for *The New York Times*
 
 Source: HILARY STOUT and ELIZABETH A. HARRIS “Today’s Girls Love Pink Bows as Playthings, but These Shoot,” *New York Times,*March 22
 
-![](../images/14-03-26_64.62_DianaEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-03-26_64.62_DianaEDIT-1.jpeg)

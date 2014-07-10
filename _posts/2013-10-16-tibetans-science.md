@@ -18,4 +18,4 @@ Image: David Walter Banks for *The New York Times*
 
 Source: KIM SEVERSON, “A Bridge Between Western Science and Eastern Faith,” *New York Times*, October 11, 2013 
 
-![](../images/13.10.16_Richard_TibetScienceEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.16_Richard_TibetScienceEDIT-1.jpeg)

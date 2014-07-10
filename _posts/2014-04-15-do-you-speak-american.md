@@ -20,4 +20,4 @@ Image: AMC
 
 Source: Carolyn Eastman, “The Revolution Takes a Turn: AMC’s Drama about Washington’s Spies Aims for Moral Complexity,” *Perspectives on History*, April 2014 
 
-![](../images/14-04-15_32.12_Turn-1.jpeg)
+![]({{siteurl.base}}/images/14-04-15_32.12_Turn-1.jpeg)

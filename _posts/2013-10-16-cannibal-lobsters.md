@@ -20,4 +20,4 @@ Lobster cannibalism tends to occur in captivity (hence the rubber bands around c
 
 Source: MELISSA BREYER, “Lobster Cannibalism,” *Huffington Post*, July 30, 2013 
 
-![](../images/13-09-25_96.2_LobsterEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-09-25_96.2_LobsterEDIT-1.jpeg)

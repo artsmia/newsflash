@@ -19,4 +19,4 @@ Image: Diego Ibarra Sanchez for *The New York Times*
 
 Source: ROD NORDLAND, “Newlyweds, Facing Threats, Find Brief Respite in Mountains,” *The New York Times,*April 21
 
-![](../images/14-04-22_14.12_StarcrossedEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-04-22_14.12_StarcrossedEDIT-1.jpeg)

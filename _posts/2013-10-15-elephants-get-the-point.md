@@ -20,4 +20,4 @@ Image: Dai Kurokawa/European Pressphoto Agency
 
 Source: Carl Zimmer, ”Elephants Get the Point of Pointing, Study Shows,” *New York Times*, 10/10/13 
 
-![](../images/13.10.14.Bortolot_ElephantEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.14.Bortolot_ElephantEDIT-1.jpeg)

@@ -18,4 +18,4 @@ The movement stems from a concern that the current approach places too great an 
 
 Source: Laurie Goldstein, *New York Times*, “Bar Mitzvahs Get New Look to Build Faith,” nytimes.com, September 3, 2013. Photo: Guy Vlau for the New York Times
 
-![](../images/13-09-11_98.136.17_BarMitzvahEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-09-11_98.136.17_BarMitzvahEDIT-1.jpeg)

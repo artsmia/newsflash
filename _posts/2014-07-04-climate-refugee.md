@@ -20,4 +20,4 @@ Some Kiribati residents have asked for asylum in New Zealand, claiming the burni
 
 Source: Qz.com, July 1, 2014
 
-![](../images/14-07-04_74.79.1_ClimateRefugeeEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-07-04_74.79.1_ClimateRefugeeEDIT-1.jpg)

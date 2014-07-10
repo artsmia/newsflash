@@ -18,4 +18,4 @@ Not so long ago, Detroit was the bustling embodiment of the American dream, push
 
 Source: New York Times, July 18, 2013
 
-![](../images/13-07-19_92.24_DetroitBankruptcyEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-07-19_92.24_DetroitBankruptcyEDIT-1.jpeg)

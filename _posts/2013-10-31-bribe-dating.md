@@ -16,4 +16,4 @@ Not exactly what Orpheus was trying here, using poetry and lyre music to seduce 
 
 Source: cnn.com, October 29, 2013
 
-![](../images/13.10.31_Gihring_bribedateEDIT-1.png)
+![]({{siteurl.base}}/images/13.10.31_Gihring_bribedateEDIT-1.png)

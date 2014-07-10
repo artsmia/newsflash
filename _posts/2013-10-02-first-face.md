@@ -22,4 +22,4 @@ As this mask demonstrates, faces have become the essence of who we are and how w
 
 Source: Reuters. September 26, 2013. 
 
-![](../images/13.10.03_Gihring_FirstFaceEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.10.03_Gihring_FirstFaceEDIT-1.jpeg)

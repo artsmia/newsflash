@@ -18,4 +18,4 @@ For nearly all of world history, of course, religion was very much the governmen
 
 Source: Slate.com, May 6, 2014
 
-![](../images/14-05-14_72.68_PrayerEDIT-1.png)
+![]({{siteurl.base}}/images/14-05-14_72.68_PrayerEDIT-1.png)

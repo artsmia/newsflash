@@ -18,4 +18,4 @@ Photo: Terry Zaperach/NASA, via Agence France-Presse — Getty Images
 
 Source: CAROLINE CHEN, “New Moon Probe Raises Questions About What to Do Next in Space,” *New York Times*, August 31, 2013 
 
-![](../images/13-09-5_80.28_MoonProbeEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-09-5_80.28_MoonProbeEDIT-1.jpeg)

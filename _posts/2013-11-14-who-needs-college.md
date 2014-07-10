@@ -20,4 +20,4 @@ Image: Carolyn Kaster/AP
 
 Source: Emmerie Huetteman, “First Lady’s New Initiative: College, ‘Whatever It Takes’,” *New York Times*, 11/12/13 
 
-![](../images/13-11-13_98.61.2_CollegeEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13-11-13_98.61.2_CollegeEDIT-1.jpeg)

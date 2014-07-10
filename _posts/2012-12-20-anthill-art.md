@@ -18,4 +18,4 @@ Trouble is, for those who are troubled by such things, there aren’t any ants l
 
 Source: anthillart.com
 
-![](../images/13.12.20_Gihring_AnthillArtEDIT-1.jpg)
+![]({{siteurl.base}}/images/13.12.20_Gihring_AnthillArtEDIT-1.jpg)

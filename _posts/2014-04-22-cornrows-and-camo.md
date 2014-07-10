@@ -18,4 +18,4 @@ Image: Bryan Meltz for *The New York Times*
 
 Source: Helene Cooper, “Army’s Ban on Some Popular Hairstyles Raises Ire of Black Female Soldiers,” *The New York Times,*April 20
 
-![](../images/14-04-22_XX_hairstylesEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-04-22_XX_hairstylesEDIT-1.jpeg)

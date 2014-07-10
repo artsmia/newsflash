@@ -18,4 +18,4 @@ A new study of attraction suggests that only a small percentage of people fall i
 
 Source: New York Times, May 18, 2014
 
-![](../images/14-05-23_41.3_GreatPersonalityEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-05-23_41.3_GreatPersonalityEDIT-1.jpg)

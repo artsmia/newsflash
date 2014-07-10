@@ -18,4 +18,4 @@ It also appears the male hand evolved to become a club-like instrument, adding t
 
 Source: Daily Telegraph, June 9, 2014
 
-![](../images/14-06-12_L2013.114.1_FightFaceEDIT-1.jpg)
+![]({{siteurl.base}}/images/14-06-12_L2013.114.1_FightFaceEDIT-1.jpg)

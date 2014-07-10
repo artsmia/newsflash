@@ -20,4 +20,4 @@ Photo: Taken from Wikipedia, no citation given
 
 Source: MPR News, November 27, 2013
 
-![](../images/13.12.3_Hydro_JKO_EDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.12.3_Hydro_JKO_EDIT-1.jpeg)

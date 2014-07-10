@@ -18,4 +18,4 @@ Image: Pierre Suu/Getty Images
 
 Source: Agence France Presse, “'Locks Of Love' Bridge In Paris Evacuated After Railing Collapses,” *The Huffington Post,*June 9
 
-![](../images/14-06-11_61.36.15_Bridge2EDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-06-11_61.36.15_Bridge2EDIT-1.jpeg)

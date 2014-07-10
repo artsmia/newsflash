@@ -16,4 +16,4 @@ Very carefully—with surgical masks, if you’re the technicians who are hunker
 
 Photo: Charles Walbridge
 
-![](../images/13.09.13_Temple_GihringEDIT-1.jpeg)
+![]({{siteurl.base}}/images/13.09.13_Temple_GihringEDIT-1.jpeg)

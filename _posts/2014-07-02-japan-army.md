@@ -16,4 +16,4 @@ Image: Credit Image by Yuya Shino/Reuters
 
 Source: MARTIN FACKLER and DAVID E. SANGER, “Japan Announces a Military Shift to Thwart China,” *The New York Times,*July 1
 
-![](../images/14-07-02_2009.60a-s_JapanArmyEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-07-02_2009.60a-s_JapanArmyEDIT-1.jpeg)
