@@ -36,11 +36,12 @@ update_log: download_log
 
 download_log:
 	wget --no-check-certificate --output-document=newsflash-labels.csv "$(log)&output=csv"
+	sed -i'' -e 's/\.md//' newsflash-labels.csv
 	echo "" >> newsflash-labels.csv
 	make stage_files_in_log
 
 stage_files_in_log:
-	cat newsflash-labels.csv | tail -10 | \
+	cat newsflash-labels.csv | tail -30 | \
 		csvcut -c9 | grep -v '""' | \
 		while read name; do echo $$name; git add "labels/$$name.md" "images/$$name*"; done
 	git add newsflash-labels.csv
@@ -65,7 +66,7 @@ assoc:
 
 object_ids:
 	tail -n+3 newsflash-labels.csv | while read line; do \
-		acc=$$(csvcut -c4 <<<$$line | sed 's/[[:space:]]*$$//; s/^[[:space:]]*//'); \
+		acc=$$(csvcut -c4 <<<$$line | sed 's/[[:space:]]*$$//; s/^[[:space:]]*//; s/"//g'); \
 		if [ -n "$$acc" -a '""' == $$(csvcut -c5 <<<$$line) -o -z $$(csvcut -c5 <<<$$line) ]; then \
 			result=$$(curl --silent "https://collections.artsmia.org/search_controller.php" -d 'page=search' --data-urlencode "query=$$acc"); \
 			if egrep -q "no result" <<<$$result; then \
@@ -95,4 +96,5 @@ posts:
 # slug thanks to http://automatthias.wordpress.com/2007/05/21/slugify-in-a-shell-script/
 
 rsync:
+	jekyll build
 	rsync -avz _site/ dx:/var/www/newsflash
