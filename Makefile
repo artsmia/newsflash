@@ -47,7 +47,7 @@ stage_files_in_log:
 	git add newsflash-labels.csv
 
 commit: download_log
-	git commit -m "$$(git status -s -- labels | grep '^A' | perl -pe 's|A  labels/(.*?)_.*|\1|' | sort | sed -n '1p;$$p' | sed 's/-/\//g' | paste -sd "—" -)"
+	git commit -m "$$(git status -s -- labels | grep '^A' | perl -pe 's|A  labels/(.*?)_.*|\1|' | sort | sed -n '1p;$$p' | sed 's/-/\//g' | paste -sd "—" -)" --author="miabot <null+github@artsmia.org>"
 
 assoc:
 	tail -n+3 newsflash-labels.csv | while read line; do \
@@ -65,7 +65,7 @@ assoc:
 	done
 
 object_ids:
-	tail -n+3 newsflash-labels.csv | while read line; do \
+	tail -50 newsflash-labels.csv | while read line; do \
 		acc=$$(csvcut -c4 <<<$$line | sed 's/[[:space:]]*$$//; s/^[[:space:]]*//; s/"//g'); \
 		if [ -n "$$acc" -a '""' == $$(csvcut -c5 <<<$$line) -o -z $$(csvcut -c5 <<<$$line) ]; then \
 			result=$$(curl --silent "https://collections.artsmia.org/search_controller.php" -d 'page=search' --data-urlencode "query=$$acc"); \
