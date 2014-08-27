@@ -9,7 +9,7 @@ mount:
 	fi
 
 sync: mount
-	rsync -avz /Volumes/Design/PRINT\ PUBLICATIONS/Publications\ 2014/DSN\ Design\ \&\ Editorial_14/NewsFlash_Labels/Edited\ Text/ docxs
+	rsync -avz /Volumes/Design/PRINT\ PUBLICATIONS/Publications\ 2015/DSN_Design\ \&\ Editorial_15/NEWSFLASH/Text/Edited\ Text/ docxs
 
 markdownify:
 	ls docxs/*doc* | while read doc; do \
@@ -98,4 +98,4 @@ posts:
 
 rsync:
 	jekyll build
-	rsync -avz _site/ dx:/var/www/newsflash
+	rsync -avz --exclude=docxs _site/ dx:/var/www/newsflash
