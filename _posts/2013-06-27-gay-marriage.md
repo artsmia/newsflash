@@ -2,7 +2,7 @@
 layout: post
 
 title: Gay Marriage
-object: 108692
+object: 108857
 ---
 **Defense of Marriage in the Ancient World?**
 

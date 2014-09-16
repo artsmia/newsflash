@@ -2,7 +2,7 @@
 layout: post
 
 title: Fight Face
-object: ""
+object: 18424
 ---
 **A face for fighting?**
 

@@ -2,7 +2,7 @@
 layout: post
 
 title: Cornrows and Camo
-object: ""
+object: 118797
 ---
 **Cornrows and camo?**
 

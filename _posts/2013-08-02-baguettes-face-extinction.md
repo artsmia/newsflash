@@ -2,7 +2,7 @@
 layout: post
 
 title: Baguettes face extinction
-object: ""
+object: 10436
 ---
 ***Adieu* to the baguette?**
 
