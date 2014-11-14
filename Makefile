@@ -32,7 +32,9 @@ log=https://docs.google.com/a/artsmia.org/spreadsheet/ccc?key=0AkKauoZFdwf9dHVPa
 
 update_log: download_log
 	@open '$(log)'
-	@echo "Update the log then \`make commit\`"
+	@echo "Great. This part is manual…"
+	@echo "Check that each line added to the spreadsheet has an associated markdown file in labels/"
+	@echo "`make object_ids posts`, enter the object ids in the spreadsheet, then \`make commit\`."
 
 download_log:
 	wget --no-check-certificate --output-document=newsflash-labels.csv "$(log)&output=csv"
@@ -42,7 +44,7 @@ download_log:
 
 stage_files_in_log:
 	cat newsflash-labels.csv | tail -30 | \
-		csvcut -c9 | grep -v '""' | \
+		csvcut -c9 | grep -v '""' | sed 's/"//g' | \
 		while read name; do echo $$name; git add "labels/$$name.md" "images/$$name*"; done
 	git add newsflash-labels.csv
 
@@ -65,7 +67,7 @@ assoc:
 	done
 
 object_ids:
-	tail -50 newsflash-labels.csv | while read line; do \
+	tail -10 newsflash-labels.csv | while read line; do \
 		acc=$$(csvcut -c4 <<<$$line | sed 's/[[:space:]]*$$//; s/^[[:space:]]*//; s/"//g'); \
 		if [ -n "$$acc" -a '""' == $$(csvcut -c5 <<<$$line) -o -z $$(csvcut -c5 <<<$$line) ]; then \
 			result=$$(curl --silent "https://collections.artsmia.org/search_controller.php" -d 'page=search' --data-urlencode "query=$$acc"); \
@@ -80,12 +82,13 @@ object_ids:
 	done
 
 posts:
-	@tail -30 newsflash-labels.csv | while read line; do \
+	@tail -10 newsflash-labels.csv | while read line; do \
 		date=$$(gdate --date="$$(csvcut -c6 <<<$$line)" '+%Y-%m-%d'); \
 		title=$$(csvcut -c1 <<<$$line); \
 		slug=$$(echo $$title | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
 		id=$$(csvcut -c5 <<<$$line); \
-		file="labels/$$(csvcut -c9 <<<$$line).md"; \
+		file=labels/$$(csvcut -c9 <<<$$line | sed 's/"//'g).md; \
+		echo $$file; \
 		post=$$date-$$slug.md; \
 		if [ -f "$$file" ] && [ ! -f "_posts/$$post" ]; then \
 			echo $$post; \
