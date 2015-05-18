@@ -297,7 +297,7 @@ soft soldiers,D Richard,,2003.242.1.1,84073,2/18/2015,3/18/2015,deinstalled,15-2
 hot flash,D Richard,G342,14.8,54,2/18/2015,3/18/2015,deinstalled,15-2-18_14.8_HotFlashEDIT
 eyelash,D Richard,G306,35.7.82,546,2/23/2015,3/23/2015,deinstalled,15-2-25_35.5.82_EyelashEDIT
 Mummy Monk,T Gihring,G200,62.14,1473,3/4/2015,4/4/2015,deinstalled,15-03-04_62.14_MummyMonkEDIT
-Lost,A Bortolot,G260,44.41.24,701,3/5/2015,4/5/2015,installed,15-3-4_44.41.24_lostcivilization
+Lost,A Bortolot,G260,44.41.24,701,3/5/2015,4/5/2015,deinstalled,15-3-4_44.41.24_lostcivilization
 baby,D Richard,G217,2013.37.2,116079,3/5/2015,4/5/2015,missing,15-3-5_2013.37.2_babytourismEDIT
 mancave,D Richard,2nd floor atrium,L2014.144.4,119650,3/5/2015,4/5/2015,deinstalled,15-3-5_HERMIT_mancaveEDIT
 Clinton,D Richard,G306,69.22,1727,3/11/2015,4/11/2015,deinstalled,15-3-11_69.22_ClintonEDIT
@@ -310,11 +310,11 @@ Writing Desk,J Chevalier,G333,2002.204a-p,63571,3/19/2015,4/19/2015,deinstalled,
 Picasso,J Chevalier,G377,61.36.24,1423,3/24/2015,4/24/2015,deinstalled,15-3-24_61.36.24_PicassoEDIT
 Dance,D Richard,G215,50.46.186.1,869,3/25/2015,4/25/2015,deinstalled,15-3-25_50.46.186.1_DanceEDIT
 Leela,D Richard,G211,64.65.12,18790,4/1/2015,5/1/2015,deinstalled,15-4-1_64.65.12_LeelaEDIT
-HyenaHumans,T Gihring,G311,87.4,3584,4/2/2015,5/2/2015,installed,15_4_2_87.4_HyenaHumansEDIT
-GlutenFree,T Gihring,G355,93.20,10436,4/2/2015,5/2/2015,installed,15-4-2_93.20_GlutenFreeEDIT
-NightBright,T Gihring,G318,83.147,3161,4/8/2015,5/8/2015,installed,15-04-08_83.147_NightBrightEDIT
-KingPuck,T Gihring,G305,73.13,1959,4/8/2015,5/8/2015,installed,15-04-08_73.13_KingPuckEDIT
-Wolf Hall,D Richard,G342,87.6,3594,4/8/2015,5/8/2015,installed,15-04-08_87.6_WolfHallEDIT
+HyenaHumans,T Gihring,G311,87.4,3584,4/2/2015,5/2/2015,missing?,15_4_2_87.4_HyenaHumansEDIT
+GlutenFree,T Gihring,G355,93.20,10436,4/2/2015,5/2/2015,deinstalled,15-4-2_93.20_GlutenFreeEDIT
+NightBright,T Gihring,G318,83.147,3161,4/8/2015,5/8/2015,deinstalled,15-04-08_83.147_NightBrightEDIT
+KingPuck,T Gihring,G305,73.13,1959,4/8/2015,5/8/2015,deinstalled,15-04-08_73.13_KingPuckEDIT
+Wolf Hall,D Richard,G342,87.6,3594,4/8/2015,5/8/2015,missing?,15-04-08_87.6_WolfHallEDIT
 Lincoln,D Richard,G323,44.25,689,4/15/2015,5/15/2015,installed,15-04-15_44.25 _LincolnEDIT
 Espresso,J Chevalier,G350,84.121.1,24310,4/22/2015,5/22/2015,installed,15-04-22_84.121.1_EspressoEDIT
 Power Pose,D Richard,G250,2011.29,111879,4/22/2015,5/22/2015,installed,15-04-22_2011.29_PoseEDIT
@@ -334,3 +334,4 @@ How Old? (Dix),A Bortolot,G377,75.72.3,2242,5/6/2015,6/6/2015,installed,15-05-06
 How Old? (Tashat),A Bortolot,G250,16.414,95,5/6/2015,6/6/2015,installed,15-05-06_16.414_How Old_Tashat
 How Old? (Romuald),A Bortolot,G343,62.9,1512,5/6/2015,6/6/2015,installed,15-05-06_62.9_How Old_St_Romuald
 How Old? (Copley),A Bortolot,G306,41.3,593,5/6/2015,6/6/2015,installed,15-05-06_41.3_How Old_Copley
+Olive,D Richard,G355,51.7,1218,5/13/2015,6/13/2015,installed,15-5-13_51.7_OliveEDIT
