@@ -318,11 +318,11 @@ Wolf Hall,D Richard,G342,87.6,3594,4/8/2015,5/8/2015,missing?,15-04-08_87.6_Wolf
 Lincoln,D Richard,G323,44.25,689,4/15/2015,5/15/2015,deinstalled,15-04-15_44.25 _LincolnEDIT
 Espresso,J Chevalier,G350,84.121.1,24310,4/22/2015,5/22/2015,deinstalled,15-04-22_84.121.1_EspressoEDIT
 Power Pose,D Richard,G250,2011.29,111879,4/22/2015,5/22/2015,deinstalled,15-04-22_2011.29_PoseEDIT
-circus,D Richard,G215,50.46.186.1,869,4/29/2015,5/29/2015,installed,15-04-29_50.46.186.1_CircusEDIT
-Nepal,D Richard,G212,95.86,4868,4/29/2015,5/29/2015,installed,15-04-29_95.86_NepalEDIT
-GodAds,TGihring,G341,24.1,278,4/29/2015,5/29/2015,installed,15-04-29_24.1_GodAdsEDIT
-Hike,J Chevalier,G323,68.82,1694,4/29/2015,5/29/2015,installed,15-04-29_68.82_HikeEDIT
-Rent a foreigner,D Richard,G207,2004.205.1.1,95595,4/30/2015,5/30/2015,installed,15-04-30_2004.205.1.1_CamelEDIT
+circus,D Richard,G215,50.46.186.1,869,4/29/2015,5/29/2015,deinstalled,15-04-29_50.46.186.1_CircusEDIT
+Nepal,D Richard,G212,95.86,4868,4/29/2015,5/29/2015,deinstalled,15-04-29_95.86_NepalEDIT
+GodAds,TGihring,G341,24.1,278,4/29/2015,5/29/2015,missing,15-04-29_24.1_GodAdsEDIT
+Hike,J Chevalier,G323,68.82,1694,4/29/2015,5/29/2015,deinstalled,15-04-29_68.82_HikeEDIT
+Rent a foreigner,D Richard,G207,2004.205.1.1,95595,4/30/2015,5/30/2015,missing,15-04-30_2004.205.1.1_CamelEDIT
 turkey,J Chevalier,G355,84.140,3267,5/6/2015,6/5/2015,installed,15-05-06_84.140_BirdFluEDIT
 PigPig,D Richard,G215,95.118.1a-l,4793,5/6/2015,6/6/2015,installed,15-5-6_95.118.1a-l_PigsEDIT.
 How Old? (Buonaventura),A Bortolot,G343,87.64,3632,5/6/2015,6/6/2015,installed,15-05-06_87.64_How Old_Buonaventura
@@ -336,3 +336,6 @@ How Old? (Romuald),A Bortolot,G343,62.9,1512,5/6/2015,6/6/2015,installed,15-05-0
 How Old? (Copley),A Bortolot,G306,41.3,593,5/6/2015,6/6/2015,installed,15-05-06_41.3_How Old_Copley
 Olive,D Richard,G355,51.7,1218,5/13/2015,6/13/2015,installed,15-5-13_51.7_OliveEDIT
 Veil,D Richard,G357,70.60,12092,5/27/2015,6/27/2015,installed,15-5-27_70.60_VeilEDIT
+Slave Ship,A Bortolot,G254,74.77,2137,6/3/2015,7/3/2015,installed,15-6-3_74.77_SlaveShipAB
+Imposter,D Richard,G217,99.144,12057,6/3/2015,7/3/2015,installed,15-6-3_99.144_ImpostersEDIT
+Heels,D Richard,G307,61.62,1463,6/4/2015,7/4/2015,installed,15-6-4_61.62_MensHeelsEDIT
