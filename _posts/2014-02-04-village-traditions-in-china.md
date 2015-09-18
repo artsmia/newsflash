@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Village traditions in China
 object: 9413
+image: /images/14-02-12_98.61.1_WuEDIT-1.jpeg
 ---
 **Dying traditions?**
 

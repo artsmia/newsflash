@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Go Computer
 object: 5197
+image: /images/14-05-29_97.141_GoComputerEDIT-1.jpeg
 ---
 **Computers stopped by Go?**
 

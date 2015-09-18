@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Torture Chair
 object: 10037
+image: /images/14-07-02_99.62.1_TortureChairEDIT-1.png
 ---
 **Take a seat? No, really. **
 

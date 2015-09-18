@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Dining Alone
 object: 102644
+image: /images/14-06-20_2007.100_DiningAloneEDIT-1.jpg
 ---
 **Are you feeling stuffed?**
 

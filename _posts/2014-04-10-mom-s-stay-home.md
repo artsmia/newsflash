@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Mom's Stay Home
 object: 111501
+image: /images/14-04-9_L2011.20.5_StayHomeMomEDIT-1.png
 ---
 **Domestic goddess?**
 

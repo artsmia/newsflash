@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Climate Refugee
 object: 2138
+image: /images/14-07-04_74.79.1_ClimateRefugeeEDIT-1.jpg
 ---
 **Refugees from a changing climate?**
 

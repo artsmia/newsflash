@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Jade Mining
 object: 11978
+image: /images/14-12-12_34.21.1_JadeMiningEDIT-1.jpeg
 ---
 **Is jade the new blood diamond?**
 

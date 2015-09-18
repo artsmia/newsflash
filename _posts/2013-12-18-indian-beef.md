@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Indian Beef
 object: 1325
+image: /images/13-12-18_57.12_IndiaBeefEDIT-1.jpeg
 ---
 **Holy Cow: India beef exports to match Brazil’s?**
 

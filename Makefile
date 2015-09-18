@@ -92,10 +92,11 @@ posts:
 		post=$$date-$$slug.md; \
 		if [ -f "$$file" ] && [ ! -f "_posts/$$post" ]; then \
 			echo $$post; \
-			echo -e "---\\nlayout: post\\n\\ntitle: $$title\\nobject: $$id\\n---" \
+			image=$$(cat $$file | grep '../images' | sed 's|!\[\](\.\.\(.*\))|\1|'); \
+			echo -e "---\\nlayout: post\\ntitle: $$title\\nobject: $$id\\nimage: $$image\\n---" \
 			| cat - "$$file" > _posts/$$post; \
 		fi; \
-		sed -i'' -e 's|!\[\](\.\.|!\[\]({{siteurl.base}}|g' _posts/*; \
+		gsed -i'' -e 's|!\[\](\.\.|!\[\]({{siteurl.base}}|g' _posts/*; \
 	done
 # slug thanks to http://automatthias.wordpress.com/2007/05/21/slugify-in-a-shell-script/
 

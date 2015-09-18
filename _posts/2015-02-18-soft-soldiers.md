@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: soft soldiers
 object: 84073
+image: /images/15-2-18_2003.242.1.1_SoftSoldierEDIT-1.jpeg
 ---
 **A lover, not a fighter?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Slave Ship
 object: 2137
+image: /images/15-6-3_74.77_SlaveShipAB-1.jpeg
 ---
 **Evidence of a horrible past?**
 

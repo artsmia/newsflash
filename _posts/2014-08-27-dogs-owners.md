@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Dogs & owners
 object: 76
+image: /images/14-08-27_16.2_dogsEDIT-1.jpeg
 ---
 **Making puppy dog eyes?**
 

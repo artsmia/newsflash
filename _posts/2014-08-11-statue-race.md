@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Statue Race
 object: 6161
+image: /images/14-08-11_2001.153_StatueRaceEDIT-1.jpg
 ---
 **Bigger is better?**
 

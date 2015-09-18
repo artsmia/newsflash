@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Overfishing
 object: 3115
+image: /images/14-06-17_82.84_OverfishingEDIT-1.jpg
 ---
 **Tasty Fish or Clean Air?**
 

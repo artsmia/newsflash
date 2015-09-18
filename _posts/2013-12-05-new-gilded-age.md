@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: New Gilded Age
 object: 2570
+image: /images/13-12-03_78.7_GildedAgeEDIT-1.jpeg
 ---
 **Gilding the Lily?**
 

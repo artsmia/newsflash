@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Church and state
 object: 1936
+image: /images/14-05-14_72.68_PrayerEDIT-1.png
 ---
 **Prayer by majority rule?**
 

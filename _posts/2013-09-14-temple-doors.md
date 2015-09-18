@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Temple doors
 object: 59617
+image: /images/13.09.13_Temple_GihringEDIT-1.jpeg
 ---
 **How do you recreate a temple’s doors?**
 

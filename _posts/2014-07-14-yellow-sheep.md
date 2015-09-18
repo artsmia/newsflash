@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Yellow Sheep
 object: 311146
+image: /images/14-07-23_99.132_YellowSheepTourDeFrEDIT-1.jpg
 ---
 **Where yellow means ‘Go’?**
 

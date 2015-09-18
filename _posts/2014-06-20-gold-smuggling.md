@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Gold Smuggling
 object: 4379
+image: /images/14-06-20_92.132.1_GoldSmugglingEDIT-1.jpg
 ---
 **Golden age of smuggling?**
 

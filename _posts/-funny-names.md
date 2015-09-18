@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Funny names
 object: 98954
+image: /images/14-05-05_2008.84_NamesEDIT-1.jpeg
 ---
 **Whackdoodle Names: Blessing or Curse?**
 

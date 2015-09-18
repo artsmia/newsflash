@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Digital music
 object: 40283
+image: /images/14-03-13_98.276.162 _DigitalMusic-1.png
 ---
 **Revenge of the record player?**
 

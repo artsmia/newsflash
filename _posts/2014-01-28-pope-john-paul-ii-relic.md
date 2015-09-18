@@ -1,8 +1,9 @@
 ---
 layout: post
-
 title: Pope John Paul II Relic
 object: 113688
+image: /images/14.01.28_Bortolot_PopeRelicEDIT-2.jpeg
+/images/14.01.28_Bortolot_PopeRelicEDIT-1.jpeg
 ---
 ***Blood of Pope John Paul ll Stolen from Italian Chapel***
 

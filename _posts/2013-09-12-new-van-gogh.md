@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: New Van Gogh
 object: 1218
+image: /images/13.09.12_VanGogh_Gihring-1.jpeg
 ---
 **Do you have a Van Gogh in your attic?**
 

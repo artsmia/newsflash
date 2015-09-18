@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Hurricanes
 object: 14019
+image: /images/14-06-04_23.3d_HurricanesEDIT-1.jpg
 ---
 **Who’s afraid of a female hurricane?**
 

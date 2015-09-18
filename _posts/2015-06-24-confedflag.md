@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: ConfedFlag
 object: 8024
+image: /images/15-6-24_27.78_ConfedFlag_EDIT-1.jpeg
 ---
 **What gives a flag its power?**
 

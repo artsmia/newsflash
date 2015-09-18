@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Death Cafes
 object: 116020
+image: /images/NewsFlash_Algeo_DeathCafeEDIT-1.jpeg
 ---
 **Coffee—and Coffin?**
 

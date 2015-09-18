@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Hopi scheme
 object: 108692
+image: /images/13-12-18_2010.1_HopiEDIT-1.jpeg
 ---
 **Scheme to honor the Hopi?**
 

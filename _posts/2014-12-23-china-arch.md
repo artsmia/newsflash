@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: China Arch
-object: ""
+object: 60965
+image: /images/14-12-23_98.67.2.1-8_ChinaArchEDIT-1.jpeg
 ---
 **Keep Beijing ‘weird’?**
 

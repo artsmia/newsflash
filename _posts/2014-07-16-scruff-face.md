@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Scruff Face
 object: 1721
+image: /images/14-07-17_69.137_ScruffFaceEDIT-1.jpeg
 ---
 **Calling me ‘Scruff Face’?**
 

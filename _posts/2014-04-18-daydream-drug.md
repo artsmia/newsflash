@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Daydream drug
 object: 1476
+image: /images/14-04-10_61.24_DaydreamEDIT-1.jpeg
 ---
 **Is daydreaming a disease?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Trial by combat
 object: 115752
+image: /images/14-05-28_TrialByCombatEDIT-1.png
 ---
 **Was Trial by Combat Good Economics?**
 

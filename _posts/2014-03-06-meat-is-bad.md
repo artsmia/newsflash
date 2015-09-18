@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Meat is bad
 object: 1325
+image: /images/14-03-06_57.12_MeatEDIT-1.jpg
 ---
 **Animal proteins could consume you**
 

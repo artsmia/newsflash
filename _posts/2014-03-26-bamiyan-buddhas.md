@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bamiyan Buddhas
 object: 6161
+image: /images/14-03-26_2001.153_BamianEDIT-1.jpeg
 ---
 **Whether to fill the niches?**
 

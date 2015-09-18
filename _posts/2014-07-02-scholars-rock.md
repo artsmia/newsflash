@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Scholars rock
 object: 5816
+image: /images/14-07-01_98.81.2_rockvideogameEDIT-1.jpeg
 ---
 **A Videogame for Stoners?**
 

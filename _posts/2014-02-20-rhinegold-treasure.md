@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Rhinegold treasure
 object: 2416
+image: /images/14-02-20_76.73.78_treasureEDIT-1.jpg
 ---
 **A nerdy pastime unearths a legendary treasure?**
 

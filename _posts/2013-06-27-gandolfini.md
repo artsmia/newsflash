@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Gandolfini
 object: 12936
+image: /images/NewsFlash_Feldman_Gandolfini6.26.2EDIT-1.jpeg
 ---
 **An Idyllic Landscape for Tony Soprano?**
 

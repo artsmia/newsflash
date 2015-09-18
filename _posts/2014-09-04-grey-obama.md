@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Grey Obama
 object: 486
+image: /images/14-09-04_32.12_GreyObama_EDIT-1.jpg
 ---
 **Myth of the greying president?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Ukiyo-e video
 object: 80075
+image: /images/13.09.03_VideoWoodBlocks_AlgeoEDIT-1.jpg
 ---
 **21st Century *Ukiyo-e*?**
 

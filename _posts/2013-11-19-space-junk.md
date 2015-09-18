@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Space Junk
 object: 116191
+image: /images/13-11-13_2013.19_SpacejunkEDIT-1.jpeg
 ---
 **Down with Space Junk?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Crucifixion
 object: 10425
+image: /images/13-09-04_79.19_CrucifixionEDIT-1.jpeg
 ---
 **Literal cross to bear?**
 

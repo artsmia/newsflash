@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Prancercise
 object: 5623
+image: /images/13-10-03_98.19_PranceEDIT-1.jpeg
 ---
 **Horsing around?**
 

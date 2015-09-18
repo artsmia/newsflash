@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Locks in Paris
 object: 1413
+image: /images/14-04-29_61.36.15_BridgeEDIT-1.jpeg
 ---
 **Amour eyesore?**
 

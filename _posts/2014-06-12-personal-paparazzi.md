@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Personal Paparazzi
 object: 3937
+image: /images/14-06-12_90.133.1PersonalPaparazziEDIT-1.jpg
 ---
 **Your personal paparazzi?**
 

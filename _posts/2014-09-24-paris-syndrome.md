@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Paris Syndrome
 object: 3161
+image: /images/14-09-24_83.147_ParisSynEDIT-1.jpeg
 ---
 **A New China Syndrome?**
 

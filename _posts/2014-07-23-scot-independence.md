@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Scot independence
 object: 320
+image: /images/14-07-24_26.2_ScotlandEDIT-1.jpeg
 ---
 **Independence—och, aye?**
 

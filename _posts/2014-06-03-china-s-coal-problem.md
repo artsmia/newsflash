@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: China's coal problem
-object: ""
+object: 738
+image: /images/14-06-3_46.23.1a-d_relicsEDIT-1.jpeg
 ---
 **Coal-fired calamity?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Manspread
 object: 10433
+image: /images/14-12-23_66.20_ManspreadEDIT-1.jpeg
 ---
 **‘Manspreading’ no more?**
 

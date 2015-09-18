@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Sea Divers
 object: 33590
+image: /images/14-04-2_2010.83_SeaWomenEDIT-1.jpeg
 ---
 **Korea’s divers plunging?**
 

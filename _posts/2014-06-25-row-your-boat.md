@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Row your boat
 object: 2239
+image: /images/14-06-25_75.7_rowersEDIT-1.jpeg
 ---
 **Merrily, merrily? **
 

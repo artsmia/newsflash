@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Japanese sex
 object: 2008
+image: /images/13.10.22_Richard_JapanSexEDIT-1.jpeg
 ---
 **[    ], Drugs, Rock ’n’ Roll?**
 

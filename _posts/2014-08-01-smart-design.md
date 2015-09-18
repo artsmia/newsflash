@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Smart Design
 object: 12828
+image: /images/14-08-01_FinlandExhib_SmartDesignEDIT-1.jpg
 ---
 **Progressive by design?**
 

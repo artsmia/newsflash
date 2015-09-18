@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: How Old? (Romuald)
 object: 1512
+image: 
 ---
 ****
 

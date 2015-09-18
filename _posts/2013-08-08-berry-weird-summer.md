@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Berry Weird Summer?
 object: 1523
+image: /images/Meyer_NewsFlash_summerberryEDIT-1.jpg
 ---
 **Berry Weird Summer?**
 

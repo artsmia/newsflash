@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: First Face
 object: 62148
+image: /images/13.10.03_Gihring_FirstFaceEDIT-1.jpeg
 ---
 **The world without faces**
 

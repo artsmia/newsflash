@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Tibetans & Science
 object: 4457
+image: /images/13.10.16_Richard_TibetScienceEDIT-1.jpeg
 ---
 **Marooned in Atlanta?**
 

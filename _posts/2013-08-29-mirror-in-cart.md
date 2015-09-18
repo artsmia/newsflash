@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Mirror in cart
 object: 98269
+image: /images/13.08.29_Richard_ShoppingCartEDIT-1.jpeg
 ---
 **Produce a Better Result?**
 

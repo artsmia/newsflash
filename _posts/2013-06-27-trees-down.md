@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Trees Down
 object: 5748
+image: /images/NewsFlash_Rassieur_Trees.6.27EDIT-1.jpeg
 ---
 **Artists Out on a Limb?**
 

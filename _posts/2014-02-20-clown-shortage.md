@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Clown shortage
 object: 18424
+image: /images/14-02-20_61.6_ClownEDIT-1.jpeg
 ---
 **No more clowning around?**
 

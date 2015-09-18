@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Baguettes face extinction
 object: 10436
+image: /images/13-08-01_93.2_BaguetteExtinctionEDIT-1.png
 ---
 ***Adieu* to the baguette?**
 

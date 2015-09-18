@@ -1,8 +1,8 @@
 ---
 layout: post
-
-title: "Tammany Bank 'Little Fat Man'"
+title: "Tammany Bank ""Little Fat Man"""
 object: 81890
+image: /images/13.10.15_Richard_FatTaftEDIT-1.jpeg
 ---
 **Weight of the world?**
 

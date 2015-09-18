@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bar Mitzvah
 object: 30523
+image: /images/13-09-11_98.136.17_BarMitzvahEDIT-1.jpeg
 ---
 **Not your father’s Bar Mitzvah?**
 

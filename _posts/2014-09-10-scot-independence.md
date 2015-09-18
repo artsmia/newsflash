@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Scot independence
 object: 320
+image: /images/14-09-10_26.2_ScotEDIT-1.jpeg
 ---
 **Haggling over haggis land?**
 

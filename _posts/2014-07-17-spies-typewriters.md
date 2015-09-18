@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Spies Typewriters
 object: 106338
+image: /images/14-07-17_2008.44.1_TypewriterSpiesEDIT-1.jpg
 ---
 **Spies vs. typewriters?**
 

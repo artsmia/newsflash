@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bodhi Tree
 object: 6161
+image: /images/NewsFlash_Richard_BodhiTemple7.10-1.jpeg
 ---
 **Sacred and Profane?**
 

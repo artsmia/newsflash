@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: youth rodeo
 object: 1819
+image: /images/14-11-12_70.62_BuckarooEDIT-1.jpeg
 ---
 **Where reality wins out?**
 

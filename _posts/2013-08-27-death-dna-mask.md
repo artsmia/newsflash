@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Death/DNA mask
 object: 116020
+image: /images/13.08.27_Feldman_DeathMaskEDIT-1.jpeg
 ---
 **Life Mask or DNA Mask?**
 

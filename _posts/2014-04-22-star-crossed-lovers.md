@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Star-crossed lovers
 object: 46
+image: /images/14-04-22_14.12_StarcrossedEDIT-1.jpeg
 ---
 **Star-crossed lovers?**
 

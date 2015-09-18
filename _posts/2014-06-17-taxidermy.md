@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Taxidermy
 object: 106730
+image: /images/14-06-17_2008.79_TaxidermyEDIT-1.jpeg
 ---
 **Feeling overstuffed? **
 

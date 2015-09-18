@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Breast Cancer
 object: 395
+image: /images/13.10.10_Bortolot_BreastCancer-1.jpeg
 ---
 **Walking Away from Cancer?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Dalai Lama
 object: 4457
+image: /images/15-3-11_92.44_DalaiLamaEDIT-1.jpeg
 ---
 **Come again?**
 

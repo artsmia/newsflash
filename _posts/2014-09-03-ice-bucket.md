@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Ice Bucket
 object: 710
+image: /images/14-09-03_44.42.8a-c_IceBucketEDIT-1.jpg
 ---
 **\#icebucketchallenge**
 

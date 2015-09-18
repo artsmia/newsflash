@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Elephants get the point?
 object: 1400
+image: /images/13.10.14.Bortolot_ElephantEDIT-1.jpeg
 ---
 **Do elephants get the point?**
 

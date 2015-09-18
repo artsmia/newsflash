@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Black plague
 object: 1913
+image: /images/13.09.19_Richard_PlagueEDIT-1.jpeg
 ---
 **A biblical scourge—still?**
 

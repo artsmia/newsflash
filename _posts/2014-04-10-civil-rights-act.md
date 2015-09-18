@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Civil Rights Act
 object: 25054
+image: /images/14-04-10_86.110.3_CivRtsActEDIT-1.jpeg
 ---
 **50 Years of Civil Rights**
 

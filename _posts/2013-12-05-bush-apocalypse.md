@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bush apocalypse
 object: 58
+image: /images/13.12.05.Kern.BushEDIT-1.jpeg
 ---
 **Come Again?**
 

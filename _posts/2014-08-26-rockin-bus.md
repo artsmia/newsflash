@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Rockin' bus
 object: 99368
+image: /images/14-08-26_2006.33_RocknReadEDIT-1.jpeg
 ---
 **Rock ’n’ Read?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Rubik's cub
 object: 1595
+image: /images/14-04-29_65.5_RubikEDIT-1.jpeg
 ---
 **Fab fad at 40?**
 

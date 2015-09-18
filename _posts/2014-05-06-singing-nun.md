@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Singing nun
 object: 1658
+image: /images/14-05-06_68.11_NunEDIT-1.jpeg
 ---
 **Girls just want to have fun?**
 

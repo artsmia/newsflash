@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Cannibal lobsters
 object: 5033
+image: /images/13-09-25_96.2_LobsterEDIT-1.jpeg
 ---
 **Sex, Telephones, and Lobster Cannibalism?**
 

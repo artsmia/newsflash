@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Tourniquet
 object: 3520
+image: /images/14.01.22_Richard_TournaquetEDIT-1.jpeg
 ---
 **Police Tie One On?**
 

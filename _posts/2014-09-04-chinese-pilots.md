@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Chinese Pilots
 object: 3076
+image: /images/14-09-04_82.46_ChinesePilots_EDIT-1.jpg
 ---
 **Do you know what you’re saying?**
 

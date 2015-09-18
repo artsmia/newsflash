@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Hydroelectric Falls
 object: 2900
+image: /images/13.12.3_Hydro_JKO_EDIT-1.jpeg
 ---
 **Water Power vs. Water View?**
 

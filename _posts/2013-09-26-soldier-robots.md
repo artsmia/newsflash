@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Soldier Robots
 object: 1201
+image: /images/13-09-26_51.37.29_SoldierRobotEDIT-1.jpeg
 ---
 **Soldiers + Robots = Love?**
 

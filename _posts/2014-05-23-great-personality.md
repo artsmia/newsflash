@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Great personality
 object: 593
+image: /images/14-05-23_41.3_GreatPersonalityEDIT-1.jpg
 ---
 **So…how’s her personality?**
 

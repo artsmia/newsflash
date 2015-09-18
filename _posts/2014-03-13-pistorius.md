@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Pistorius
 object: 3520
+image: /images/14-03-13_86.6_PistoriusEDIT-1.jpeg
 ---
 **‘Blade Runner’ hero
  no more? **

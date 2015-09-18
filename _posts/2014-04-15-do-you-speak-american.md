@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Do you speak American?
 object: 486
+image: /images/14-04-15_32.12_Turn-1.jpeg
 ---
 **Do you speak American?**
 

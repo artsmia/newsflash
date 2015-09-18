@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: HyenaHumans
 object: 3584
+image: /images/15_4_2_87.4_HyenaHumansEDIT-1.jpg
 ---
 **Would you eat this? **
 
@@ -20,4 +20,4 @@ That could be a problem, healthwise. Which is why a student at London’s Royal 
 
 Source: QZ.com, March 31, 2015
 
-![]({{siteurl.base}}/images/15-4-2_87.4_HyenaHumansEDIT-1.jpg)
+![]({{siteurl.base}}/images/15_4_2_87.4_HyenaHumansEDIT-1.jpg)

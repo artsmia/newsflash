@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Camels RVs
 object: 95595
+image: /images/13.9.25_Bortolot_CamelsRVEDIT_-1.jpeg
 ---
 **Wanderlust in Shanghai?**
 

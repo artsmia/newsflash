@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Meditation
 object: 30781
+image: /images/14-11-22_98.211_MeditationEDIT-1.jpg
 ---
 **Can we think better, when we think about nothing?**
 

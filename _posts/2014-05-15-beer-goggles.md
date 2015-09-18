@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Beer goggles
 object: 15558
+image: 
 ---
 **Are beer goggles real?**
 

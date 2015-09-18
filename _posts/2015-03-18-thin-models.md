@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Thin Models
 object: 320
+image: /images/15-3-18_26.2_ThinModelsEDIT-1.jpg
 ---
 **Should ultra-thin models be illegal?**
 

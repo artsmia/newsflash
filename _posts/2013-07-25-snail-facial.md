@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Snail Facial
 object: 395
+image: /images/NewsFlash_Richard_SnailFacialEDIT-1.jpeg
 ---
 **Mollusk-mucus Mask?**
 

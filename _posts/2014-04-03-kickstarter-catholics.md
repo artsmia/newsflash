@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Kickstarter Catholics
 object: 15682
+image: /images/14-04-3_34.20_KickstarterEDIT-1.jpg
 ---
 **Kickstarting Franciscans?
 **

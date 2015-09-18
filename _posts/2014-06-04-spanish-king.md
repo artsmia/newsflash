@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Spanish king
 object: 1226
+image: /images/14-06-4_52.14_SpanishKingEDIT-1.jpeg
 ---
 **The reign in Spain?**
 

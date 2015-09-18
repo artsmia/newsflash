@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Brain to brain
 object: 3077
+image: /images/13.09.03_Algeo_BrainToBrainEDIT-1.jpg
 ---
 **What ever happened to self-control?
 **

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Snake handling
 object: 111879
+image: /images/13.11.20_Richard_SnakeEDIT-1.jpeg
 ---
 **Snake handling a crime?**
 

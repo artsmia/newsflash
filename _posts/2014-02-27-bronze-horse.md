@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bronze horse
 object: 2607
+image: /images/14-02-27_79.13_DaVinciHorseEDIT-1.jpeg
 ---
 **Stalling on a gift horse?**
 

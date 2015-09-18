@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Faux masters
 object: 115752
+image: /images/13-12-30_2012.76a-c_forgeryEDIT-1.jpeg
 ---
 **A life imitating art?**
 

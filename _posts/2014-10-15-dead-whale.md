@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Dead Whale
 object: 111088
+image: /images/14-10-16_2010.72_DeadWhaleEDIT-1.jpg
 ---
 **Why are the “sea monsters” surfacing?**
 

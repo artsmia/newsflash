@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: China's Wine drinkers
 object: 1107
+image: /images/14-04-9_50.46.45_WineinChinaEDIT-1.jpeg
 ---
 **For all the wine in China?**
 

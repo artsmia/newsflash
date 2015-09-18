@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Westminster Dog
 object: 3282
+image: /images/14-02-11_2006.33.WestminsterEDIT-1.jpeg
 ---
 **A Dog’s Life?**
 

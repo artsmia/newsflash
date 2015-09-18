@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Union Depot
 object: 4619
+image: /images/14-04-16_93.70.52_AmtrakEDIT-1.JPG
 ---
 **All aboard!**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Good Teens
 object: 2144
+image: /images/14-05-29_74.8_GoodTeensEDIT-1.jpg
 ---
 **Kids today…are good?**
 

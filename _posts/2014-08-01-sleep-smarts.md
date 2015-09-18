@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Sleep Smarts
 object: 106730
+image: /images/14-08-01_2008.79_SleepSmartsEDIT-1.jpg
 ---
 **Are night-owls smarter?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Arizona wildfires
 object: 3296
+image: /images/NewsFlash_ATR_ArizFire_7.9_EDIT-1.jpeg
 ---
 **Trial by Fire?**
 

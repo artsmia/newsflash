@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: China children
 object: 4343
+image: /images/14-02-26_2005.54.3_ChinaBabyEDIT-1.jpeg
 ---
 **China’s 2 for 1?**
 

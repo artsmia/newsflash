@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Diana as Katnis
 object: 1565
+image: /images/14-03-26_64.62_DianaEDIT-1.jpeg
 ---
 **Tied up with a bow?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Maya Angelou
 object: 44007
+image: /images/14-06-03_P.99.12.2_MayaAngelou-1.jpg
 ---
 **Maya Angelou, Remembered**
 

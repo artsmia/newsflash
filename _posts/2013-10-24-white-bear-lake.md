@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: White Bear Lake
 object: 91556
+image: /images/13.10.22.Kern.WhitebearLakeEDIT-1.jpeg
 ---
 **Land of 9,999 Lakes?**
 

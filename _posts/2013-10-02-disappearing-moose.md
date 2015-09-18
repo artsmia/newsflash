@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Disappearing Moose
 object: 108723
+image: /images/13.10.03_Gihring_MooseEDIT-1.jpeg
 ---
 **Will the moose disappear from Minnesota?**
 

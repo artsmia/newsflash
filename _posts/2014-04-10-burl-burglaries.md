@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Burl burglaries
 object: 119214
+image: /images/14-04-9_81.3_RedwoodBurlsEDIT-1.jpg
 ---
 **Who are the burl burglars?**
 

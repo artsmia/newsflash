@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Dog Petting
 object: 99368
+image: /images/14-09-16_2006.33_DogPettingEDIT-1.jpeg
 ---
 **Do dogs care what you say?**
 

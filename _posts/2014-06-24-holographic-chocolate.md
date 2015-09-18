@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Holographic Chocolate
 object: 5487
+image: /images/14-06-24_97.92.6_holographicchocEDIT-1.jpeg
 ---
 **Eye candy of the future?**
 

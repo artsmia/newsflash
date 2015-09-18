@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: In Vitro Beef
 object: 1233
+image: /images/NewsFlash_Richard_LabBeefEDIT-1.jpeg
 ---
 **Where’s the Beef?**
 

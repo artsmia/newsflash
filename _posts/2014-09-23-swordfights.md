@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Swordfights
 object: 59168
+image: /images/14-09-16_04.3.60_SwordfightsEDIT-1.jpeg
 ---
 **Are we going medieval?**
 

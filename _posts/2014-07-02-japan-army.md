@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Japan Army
 object: 108860
+image: /images/14-07-02_2009.60a-s_JapanArmyEDIT-1.jpeg
 ---
 **Pacific reawakening? **
 

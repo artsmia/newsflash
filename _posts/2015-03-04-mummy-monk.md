@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Mummy Monk
 object: 1473
+image: /images/15-03-04_62.14_MummyMonkEDIT-1.jpg
 ---
 **The monk in the statue**
 

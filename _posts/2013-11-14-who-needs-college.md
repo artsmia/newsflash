@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Who needs college
 object: 12134
+image: /images/13-11-13_98.61.2_CollegeEDIT-1.jpeg
 ---
 **Who Needs College?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Asteroids
 object: 116191
+image: /images/13-07-26_2013.19_AsteroidsEDIT-1.jpeg
 ---
 **Up for a moondance?**
 

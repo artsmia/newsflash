@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Founding fathers
 object: 486
+image: 
 ---
 **Does my hair make me look old? **
 

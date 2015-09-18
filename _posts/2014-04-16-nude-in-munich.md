@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Nude in Munich
 object: 2724
+image: /images/14-04-16_80.27_NudeParkEDIT-1.jpeg
 ---
 **Avoiding tan lines?**
 

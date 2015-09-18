@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Hugging Carp
 object: 696
+image: /images/14-09-04_44.3.59_CarpEDIT-1.png
 ---
 **Hug a carp?**
 

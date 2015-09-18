@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Elite colleges
 object: 12134
+image: /images/14-04-9_98.61.2_EliteSchoolsEDIT-1.jpg
 ---
 **Why is the door narrowing for elite colleges?**
 

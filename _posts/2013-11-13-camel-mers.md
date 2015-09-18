@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Camel & MERS
 object: 95595
+image: /images/13.11.13_Richard_CamelMersEDIT-1.jpeg
 ---
 **Beware of Camel Spit?**
 

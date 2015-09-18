@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bookshelfies
 object: 1488
+image: /images/13.09.13_Bookshelfies_Gihring-1.jpeg
 ---
 **Do these books make me look smart?**
 

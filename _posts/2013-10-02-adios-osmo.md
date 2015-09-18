@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Adios Osmo
 object: 116020
+image: /images/13.10.03_Richard_MNOrchEDIT-1.jpeg
 ---
 **Sound of silence?**
 

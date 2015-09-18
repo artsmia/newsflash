@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Femicide in Italy
 object: 529
+image: /images/13.08.21_Richard_FemicideItalyEDIT-1.jpeg
 ---
 **Scourge of Italy?**
 

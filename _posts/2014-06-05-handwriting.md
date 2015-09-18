@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: handwriting
 object: 112813
+image: /images/14-06-5_98.169.2.3_HandwrtgEDIT-1.jpeg
 ---
 **A, B, Cs or QWERTY?**
 

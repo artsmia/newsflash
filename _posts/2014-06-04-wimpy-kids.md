@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Wimpy kids
 object: 1162
+image: /images/14-06-04_51.18_WimpyKidsEDIT-1.jpeg
 ---
 **Wimpy? Who, me?**
 

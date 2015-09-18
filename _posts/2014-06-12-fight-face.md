@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Fight Face
 object: 18424
+image: /images/14-06-12_L2013.114.1_FightFaceEDIT-1.jpg
 ---
 **A face for fighting?**
 

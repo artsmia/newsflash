@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Eagle Wind Farm
 object: 1629
+image: /images/14-07-30_66.9_EagleEDIT-1.jpeg
 ---
 **Bird lovers crying fowl?**
 

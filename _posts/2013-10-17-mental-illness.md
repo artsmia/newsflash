@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Mental illness
 object: 1218
+image: /images/13.10.17.Kearns.MentalIllnessEDIT-1.jpeg
 ---
 **Injustice for Mentally Ill?**
 

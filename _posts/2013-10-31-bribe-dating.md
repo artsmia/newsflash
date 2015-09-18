@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bribe Dating
 object: 1657
+image: /images/13.10.31_Gihring_bribedateEDIT-1.png
 ---
 **What lovely bribes you have!**
 

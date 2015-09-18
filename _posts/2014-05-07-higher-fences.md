@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Higher fences
 object: 53
+image: /images/14-05-06_14.76_DeerEDIT-1.jpeg
 ---
 **Build higher fences?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Turkey railway
 object: 121
+image: /images/13.10.31_Gihring_turkeyEDIT-1.jpeg
 ---
 **Return of the Ottoman Empire—or hubris?**
 

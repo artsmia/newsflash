@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bengal tigers
 object: 45653
+image: /images/14-02-12_2012.1.1_TigerEDIT-1.jpeg
 ---
 **She’s a man-eater?**
 

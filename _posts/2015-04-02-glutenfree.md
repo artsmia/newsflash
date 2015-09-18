@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: GlutenFree
 object: 10436
+image: /images/15-4-2_93.20_GlutenFreeEDIT-1.jpg
 ---
 **What if the museum were gluten-free?**
 

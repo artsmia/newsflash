@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bridge Redux
 object: 1413
+image: /images/14-06-11_61.36.15_Bridge2EDIT-1.jpeg
 ---
 **Update: Locks of Love? **
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Cereal box
 object: 1649
+image: /images/14-05-21_67.53_cerealEDIT-1.jpeg
 ---
 **Seeing eye to eye?**
 

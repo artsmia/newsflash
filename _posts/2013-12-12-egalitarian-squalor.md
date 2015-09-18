@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Egalitarian squalor
 object: 1271
+image: /images/13.12.12Clean_GendronEDIT-1.jpeg
 ---
 **The End of Housework?**
 

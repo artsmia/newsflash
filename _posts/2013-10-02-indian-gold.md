@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Indian Gold
 object: 4379
+image: /images/13-10-03_92.132.1_IndianGoldEDIT-1.jpeg
 ---
 **Silence is golden?**
 

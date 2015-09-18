@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Spatial Thinking
 object: 3215
+image: /images/NewsFlash_Richard_SpatialThink_EDIT-1.jpeg
 ---
 **3-D IQ a Sign of Genius?**
 

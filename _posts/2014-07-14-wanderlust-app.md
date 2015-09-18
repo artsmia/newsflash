@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Wanderlust App
 object: 111219
+image: /images/14-07-14_2010.88_MapMostBeautifulEDIT-1.png
 ---
 **An App for Wanderlust?**
 

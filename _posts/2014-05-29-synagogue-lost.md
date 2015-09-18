@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Synagogue Lost
 object: 81714
+image: /images/14-05-29_2003.165.1a-c _SynagogueLostEDIT-1.jpg
 ---
 **A heritage lost in Syria?**
 

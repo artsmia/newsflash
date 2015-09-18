@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: NightBright
 object: 3161
+image: /images/15-04-08_83.147_NightBrightEDIT-1.jpeg
 ---
 **Is the night too bright?**
 

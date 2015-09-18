@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Phone Protests
 object: 1341
+image: /images/14-10-1_57.45_PhoneProtestsEDIT-1.jpeg
 ---
 **By the light of the phone?**
 

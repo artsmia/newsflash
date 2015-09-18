@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Fish market
 object: 30350
+image: /images/13.09.19_Richard_FishMktEDIT-1.jpeg
 ---
 **Sushi market a go-go?**
 

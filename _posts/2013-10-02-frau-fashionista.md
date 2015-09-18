@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Frau Fashionista
 object: ""
+image: /images/13.10.03_Richard_DirndlEDIT-1.jpeg
 ---
 **Frau fashionista?**
 

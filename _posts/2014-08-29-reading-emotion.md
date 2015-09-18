@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Reading Emotion
 object: 1567
+image: /images/14-08-14_64.63.2_ReadingEmotions_EDIT-1.jpeg
 ---
 **What are you saying?**
 

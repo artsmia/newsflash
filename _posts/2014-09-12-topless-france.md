@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Topless France
 object: 1655
+image: /images/14-09-12_67.67_ToplessFranceEDIT-1.jpeg
 ---
 **Is France blushing?**
 

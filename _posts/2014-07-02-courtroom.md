@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Courtroom
 object: 1355
+image: /images/14-07-01_58.35_courtroomEDIT-1.jpeg
 ---
 **Courtroom witness? **
 

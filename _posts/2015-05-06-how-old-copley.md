@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: How Old? (Copley)
 object: 593
+image: 
 ---
 ****
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Lightning bugs
 object: 455
+image: /images/14-08-20_35.50.197a-c_firefliesEDIT-1.jpeg
 ---
 **Southern lights?**
 

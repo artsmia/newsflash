@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Gay Marriage
 object: 108857
+image: /images/NewsFlash_Feldman_Hadrian6.26EDIT-1.jpeg
 ---
 **Defense of Marriage in the Ancient World?**
 

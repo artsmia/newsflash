@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Unfriendly France
 object: 3161
+image: /images/130821_Gihring_UnfriendlyFrenchEDIT-1.jpeg
 ---
 **Adieu to the unfriendly Frenchman?**
 

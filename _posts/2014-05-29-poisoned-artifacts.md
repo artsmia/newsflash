@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Poisoned Artifacts
 object: 3535
+image: /images/14-05-28_PoisonedArtifactsEDIT-1.jpeg
 ---
 **Hope for Poisoned Artifacts?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: World of Warcraft Spying
 object: 59168
+image: /images/13.12.13_Bauer_WorldWarcraftEDIT-1.jpg
 ---
 **Elfish Espionage
 **

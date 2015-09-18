@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: French shepherds
 object: 5925
+image: /images/13.09.03_Richard_ShepherdEDIT-1.jpeg
 ---
 **Who’s endangering whom?**
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Silence is deadly
 object: 1255
+image: /images/14-07-30_54.30_SilenceEDIT-1.jpeg
 ---
 **Can’t get any peace?**
 

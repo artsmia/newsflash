@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Detroit bankruptcy
 object: 4428
+image: /images/13-07-19_92.24_DetroitBankruptcyEDIT-1.jpeg
 ---
 **Who suffers as Detroit goes bankrupt?**
 

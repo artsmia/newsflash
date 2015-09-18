@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Buddha birthday
 object: 2536
+image: /images/13.11.26_Richard_BuddhasBDEDIT-1.jpeg
 ---
 ***Really* ancient wisdom?**
 

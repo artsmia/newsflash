@@ -1,8 +1,10 @@
 ---
 layout: post
-
 title: Shoo Mayfly
 object: 3584
+image: /images/14-07-23_87.4_MayflyInvasionEDIT-3.jpg
+/images/14-07-23_87.4_MayflyInvasionEDIT-2.jpg
+/images/14-07-23_87.4_MayflyInvasionEDIT-1.jpg
 ---
 **Shoo fly, don’t bother me**
 

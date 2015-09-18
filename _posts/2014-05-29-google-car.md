@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Google Car
 object: 98653
+image: /images/14-05-28_2005.138_DriverlessCarEDIT-1.jpeg
 ---
 **Driver Optional?**
 

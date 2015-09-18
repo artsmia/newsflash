@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Spider silk
 object: 14148
+image: /images/14-07-08_23.54_SilkArmorEDIT-1.jpeg
 ---
 **New take on under armor?**
 
@@ -18,4 +18,4 @@ Credit: Kraig Biocraft Laboratories; a closeup of gloves made out of spider silk
 
 Source: Elizabeth Howell, “Future Soldiers May Wear Bulletproof Spider Silk,” *Live Science,*June 25
 
-![]({{siteurl.base}}site.baseurl}}/images/14-07-08_23.54_SilkArmorEDIT-1.jpeg)
+![]({{siteurl.base}}/images/14-07-08_23.54_SilkArmorEDIT-1.jpeg)

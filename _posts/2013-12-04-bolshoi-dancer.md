@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Bolshoi Dancer
 object: 1320
+image: /images/13-12-04_56.8_BolshoiEDIT-1.jpeg
 ---
 **The Dark Side of Dance?**
 

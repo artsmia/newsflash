@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: magical thinking
 object: 1854
+image: /images/14-11-14_71.3_MagicalThinkingEDIT-1.jpg
 ---
 **Are you a magical thinker?**
 

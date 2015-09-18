@@ -1,8 +1,8 @@
 ---
 layout: post
-
 title: Pointergate
 object: 1401
+image: /images/14-11-12_61.30_PointergateEDIT-1.jpeg
 ---
 **Are you pointing at me?**
 
