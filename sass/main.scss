@@ -57,4 +57,20 @@ p em{font-family: $MiaGroteskItalic;}
 
 hr{display:none;}
 
+.mia-logo-bar{
+    background-color:#232323;
+    width:100%;
+}
+
+.logo-container{
+    background-image: url("../images/MIA_LOGO_MARK.svg");
+    background-repeat: no-repeat;
+    height: 3.3em;
+    color:#fff;
+    background-position: -2px 3px;
+    z-index: 5;
+    position: relative;
+    background-color:#232323;
+}
+
 @import 'newsflash.scss';

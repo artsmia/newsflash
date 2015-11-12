@@ -2,14 +2,12 @@
     background-color:#fff;
     width:38rem;
     margin:0;
-    padding:2em;
+    padding:48px;
     padding-top:0;
     margin-bottom:2em;
 }
 
-.post-content{
-    padding:0 0 0 12px;
-}
+.post-content{}
 
 a.menu-icon{
     width:30px;
@@ -24,14 +22,15 @@ header nav {
 header .site-title {
   display: block;
   width: 100%;
-  height: 200px;
-  margin-top:2em;
-  margin-bottom:2em;
+  height: auto;
+  margin-top:48px;
+  margin-bottom:24px;
+  margin-left:5;
 }
 
 header .site-title img{
-  height: 200px;  
-  width:100%;
+  height:127px;  
+  width:auto;
 }
 
 .post header {
@@ -42,14 +41,12 @@ header .site-title img{
     text-align:left;
     font-size:1.75em;
     margin-bottom:1em;
-    margin-left:12px;
     border-top:3px solid #232323;
     padding-top:7px;
 }
 
 .posts{
     line-height:1.6em;
-    padding-left:12px;
 }
 
 .post-date{
@@ -64,5 +61,4 @@ header .site-title img{
 }
 
 p img {max-width:100%;height:auto;}
-a img{padding-left:12px;}
 header .site-title img {padding:0;}
