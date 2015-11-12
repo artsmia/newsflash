@@ -5,6 +5,7 @@ thanks: "https://github.com/christian-fei/Simple-Jekyll-Search/blob/master/searc
   {
     "title"    : "{{ post.title | escape }}",
     "object": "{{post.object}}",
+    "image": "{{post.image}}",
     "link"     : "http://newsflash.dx.artsmia.org{{ post.url }}",
     "date"     : "{{ post.date }}"
   } {% if forloop.last %}{% else %},{% endif %}
