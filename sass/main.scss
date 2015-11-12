@@ -50,7 +50,8 @@ h1,h2,h3,h4,h5,h6 {
     font-family: $MiaGroteskBold;
 }
 
-p strong{font-family: $MiaGroteskBold;font-size:1.3rem}
+p strong{font-family: $MiaGroteskBold;font-size:1.3rem;}
+p { & strong {display:inline-block; width:100%; border-top:3px solid #232323; padding-top:7px;}}
 p {margin-bottom:1em;}
 p em{font-family: $MiaGroteskItalic;}
 
