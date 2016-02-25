@@ -9,7 +9,7 @@ mount:
 	fi
 
 sync: mount
-	rsync -avz /Volumes/Design/PRINT\ PUBLICATIONS/Publications\ 2015/DSN_Design\ \&\ Editorial_15/NEWSFLASH/Text/Edited\ Text/ docxs
+	rsync -avz /Volumes/Design/PRINT\ PUBLICATIONS/Publications\ 2016/DSN_Design\ Editorial_16/NEWSFLASH/ docxs
 
 markdownify:
 	ls docxs/*doc* | while read doc; do \
@@ -34,7 +34,7 @@ update_log: download_log
 	@open '$(log)'
 	@echo "Great. This part is manual…"
 	@echo "Check that each line added to the spreadsheet has an associated markdown file in labels/"
-	@echo "`make object_ids posts`, enter the object ids in the spreadsheet, then \`make commit\`."
+	@echo "\`make object_ids posts\`, enter the object ids in the spreadsheet, then \`make commit\`."
 
 download_log:
 	wget --no-check-certificate --output-document=newsflash-labels.csv "$(log)&output=csv"
@@ -43,9 +43,12 @@ download_log:
 	make stage_files_in_log
 
 stage_files_in_log:
-	cat newsflash-labels.csv | tail -30 | \
-		csvcut -c9 | grep -v '""' | sed 's/"//g' | \
-		while read name; do echo $$name; git add "labels/$$name.md" "images/$$name*"; done
+	cat newsflash-labels.csv | tail -250 | \
+		csvcut -c9 | grep -v '""' | sed 's/"//g' | while read name; do \
+			echo $$name; \
+			label="labels/$$name.md"; \
+			if [[ -f "$$label" ]]; then git add "$$label" "images/$$name*"; fi; \
+    done
 	git add newsflash-labels.csv
 
 commit: download_log
@@ -66,15 +69,16 @@ assoc:
 		fi; \
 	done
 
+backlog = 120
 object_ids:
-	tail -10 newsflash-labels.csv | while read line; do \
+	tail -$(backlog) newsflash-labels.csv | while read line; do \
 		acc=$$(csvcut -c4 <<<$$line | sed 's/[[:space:]]*$$//; s/^[[:space:]]*//; s/"//g'); \
 		if [ -n "$$acc" -a '""' == $$(csvcut -c5 <<<$$line) -o -z $$(csvcut -c5 <<<$$line) ]; then \
-			result=$$(curl --silent "https://collections.artsmia.org/search_controller.php" -d 'page=search' --data-urlencode "query=$$acc"); \
+			result=$$(curl --silent "https://search.artsmia.org/accession_number:\"$$acc\""); \
 			if egrep -q "no result" <<<$$result; then \
 				echo $$acc -- no match; \
 			else \
-				object=$$(jq -r '.message[0]' <<<$$result | cut -d'_' -f1); \
+				object=$$(jq -r '.hits.hits[0]._id' <<<$$result); \
 				sed -i'.bak' "s/$$acc[ ]*,,/$$acc,$$object,/" newsflash-labels.csv; \
 				echo $$acc -- $$object; \
 			fi; \
@@ -82,7 +86,7 @@ object_ids:
 	done
 
 posts:
-	@tail -10 newsflash-labels.csv | while read line; do \
+	@tail -$(backlog) newsflash-labels.csv | while read line; do \
 		date=$$(gdate --date="$$(csvcut -c6 <<<$$line)" '+%Y-%m-%d'); \
 		title=$$(csvcut -c1 <<<$$line); \
 		slug=$$(echo $$title | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
