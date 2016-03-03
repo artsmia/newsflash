@@ -1,0 +1,24 @@
+---
+layout: post
+title: Tippling with T-Rex?
+object: 5813
+image: /images/14-12-04_50.46.20_AlcoholEDIT-1.jpeg
+---
+**Tippling with T-Rex?**
+
+****
+
+This bronze wine vessel, dating back nearly 4,000 years, is proof of humanity’s long love affair with the fruit of the vine. Turns out, happy hour started well before that.
+
+A new study finds that our longer-limbed ancestors evolved the ability to metabolize alcohol as far back as 10 million years. Earlier research had dated the first wine-induced headache to some 9,000 years ago, when intrepid humans first quaffed a cup of fermented fruit. So, if you’re inclined this season, raise a glass to our gorilla cousins who developed the gut digestive enzyme ADH4 that many of us now enjoy.
+   —*Diane Richard, writer, December 4*
+
+**
+
+     
+
+Image: Martin Divisek / Bloomberg
+
+Source: Melissa Healy, “Human ancestors developed a taste for alcohol 10 million years ago,” *Los Angeles Times,* December 1, 2014
+
+![]({{siteurl.base}}/images/14-12-04_50.46.20_AlcoholEDIT-1.jpeg)

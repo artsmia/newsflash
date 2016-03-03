@@ -1,0 +1,23 @@
+---
+layout: post
+title: [    ], Drugs, Rock ’n’ Roll?
+object: 2008
+image: /images/13.10.22_Richard_JapanSexEDIT-1.jpeg
+---
+**[    ], Drugs, Rock ’n’ Roll?**
+
+****
+
+Japan’s plummeting reproduction rates are well documented. Its population of 126 million is projected to plunge by more than one-third by 2060, generating vastly more retirees than toddlers.
+
+Yet, the problem seems to stem from a complex source: intolerance of intimacy. According to the Japan Family Planning Association, 45% of women aged 16–24 “were not interested in or despised sexual contact”; a quarter of corresponding males shared the sentiment. The Japanese media has a new name for it: *sekkusu shinai shokogun*—or “celibacy syndrome.”
+
+        *—Diane Richard, writer, October 22*
+
+**
+
+Photograph: Eric Rechsteiner
+
+Source: Abigail Haworth, “Why have young people in Japan stopped having sex?” *The Guardian*, October 19, 2013 
+
+![]({{siteurl.base}}/images/13.10.22_Richard_JapanSexEDIT-1.jpeg)

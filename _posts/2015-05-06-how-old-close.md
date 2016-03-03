@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Old? (Close)
+title: 
 object: 1721
 image: 
 ---

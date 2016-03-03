@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Old? (Dix)
+title: 
 object: 2242
 image: 
 ---

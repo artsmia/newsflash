@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Old? (Read)
+title: 
 object: 2505
 image: 
 ---

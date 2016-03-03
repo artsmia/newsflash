@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Founding fathers
+title: 
 object: 486
 image: 
 ---

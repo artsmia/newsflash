@@ -1,0 +1,19 @@
+---
+layout: post
+title: Birds of a feather?
+object: 3740
+image: /images/14-04-16_88.64.1-2_LookalikesEDIT-1.jpeg
+---
+**Birds of a feather?**
+
+****
+
+That adage “Opposites attract” may be more myth than fact. According to a study of 1 million matches made by the online dating Web site eHarmony’s algorithm, people aren’t looking for a compatible partner; they’re looking to complete a matched set.
+
+The dating site asks its heterosexual users to gauge themselves and their potential partners along a spectrum of 102 traits. Women in particular look for traits identical to their own, such as smoking and drinking habits (or former), sense of humor, or creativity. Common race and income are key determinants of a love interest’s prospects. Men, however, are more flexible—except for height. If Steve is short, you’ll likely find Eve shopping in petites.     *—Diane Richard, writer, April 16*
+
+Image: Peter Oomansky
+
+Source: Emma Pierson, “In the End, People May Really Just Want to Date Themselves,” *FiveThirtyEightLife,*April 9
+
+![]({{siteurl.base}}/images/14-04-16_88.64.1-2_LookalikesEDIT-1.jpeg)

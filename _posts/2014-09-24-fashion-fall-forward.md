@@ -1,0 +1,27 @@
+---
+layout: post
+title: Fashion: fall forward?
+object: 9830
+image: /images/14-09-24_P.17,468_FashionEDIT-3.jpeg
+/images/14-09-24_P.17,468_FashionEDIT-2.jpeg
+/images/14-09-24_P.17,468_FashionEDIT-1.jpeg
+---
+**Fashion: fall forward?**
+
+****
+
+Fall’s runway displays of 2016 spring fashions started in New York, went to London and Milan, and is now in Paris. Yes, it mostly features women’s fashions. 
+
+But let’s hear it for the boys, whose sartorial expressions would not be far out of place in this gallery.
+
+ —*Diane Richard, writer, September 24*
+ Images, clockwise from left: Duckie Brown show, Credit: Ben Gabbe/Getty Images;
+ Tim Coppens. Credit: Hiroko Masuike/*The New York Times*; Lacoste. Credit: Erin Baiano for *The New York Times*
+
+Source: Guy Trebay, “Keeping Things Casual,” *The New York Times*, September 10, 2014
+
+![]({{siteurl.base}}/images/14-09-24_P.17,468_FashionEDIT-3.jpeg)
+
+![]({{siteurl.base}}/images/14-09-24_P.17,468_FashionEDIT-2.jpeg)
+
+![]({{siteurl.base}}/images/14-09-24_P.17,468_FashionEDIT-1.jpeg)

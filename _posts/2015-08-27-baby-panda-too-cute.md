@@ -1,0 +1,27 @@
+---
+layout: post
+title: Baby panda, too cute?
+object: 117088
+image: /images/15-8-27_2013.29.1296_PandaEDIT-1.jpg
+---
+**Baby panda, too cute?**
+
+****
+
+The announcement of the birth of a new panda cub on Twitter heralded much joy and excitement. With only 12 adorable giant pandas in the U.S., the new arrival at the National Zoo in Washington, D.C., is cause for celebration. Almost 900,000 people visited the “panda cam” website to check in on the new mother, Mei Xiang. 
+
+Giant pandas mate and reproduce very rarely, especially when in captivity. Mei Xiang was artificially inseminated in April. The infant cub is very fragile at this young age, and very tiny. Giant panda newborns can be up to 700 times smaller than the weight of their mothers. I think that Sano Akira’s *Bear: Glittering*, inspired by the Japanese Kawaii style—meaning cute or adorable—would approve. Even though its eyes aren’t open yet, the new panda is too cute.
+
+*—Hallie Ojala-Barrett, Intern, August 27*
+
+**
+
+**
+
+Photo credit: Becky Malinski, Smithsonian’s National Zoo
+
+News source: Liam Stack, “Giant Panda Gives Birth to Two Cubs at the National Zoo,” *The New York Times*, August 22, 2015
+
+
+
+![]({{siteurl.base}}/images/15-8-27_2013.29.1296_PandaEDIT-1.jpg)

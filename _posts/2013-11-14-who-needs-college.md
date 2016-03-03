@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who needs college
+title: Who Needs College?
 object: 12134
 image: /images/13-11-13_98.61.2_CollegeEDIT-1.jpeg
 ---

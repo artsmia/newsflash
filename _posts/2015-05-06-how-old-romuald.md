@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How Old? (Romuald)
+title: 
 object: 1512
-image: 
+image: /images/15-05-06_62.9_How Old_St_Romuald-1.png
 ---
 ****
 

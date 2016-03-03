@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cornrows and Camo
+title: Cornrows and camo?
 object: 118797
 image: /images/14-04-22_XX_hairstylesEDIT-1.jpeg
 ---

@@ -85,23 +85,27 @@ object_ids:
 		fi; \
 	done
 
+input = $$(tail -$(backlog) newsflash-labels.csv)
 posts:
-	@tail -$(backlog) newsflash-labels.csv | while read line; do \
+	@echo "$(input)" | while read line; do \
 		date=$$(gdate --date="$$(csvcut -c6 <<<$$line)" '+%Y-%m-%d'); \
-		title=$$(csvcut -c1 <<<$$line); \
-		slug=$$(echo $$title | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
-		id=$$(csvcut -c5 <<<$$line); \
 		file=labels/$$(csvcut -c9 <<<$$line | sed 's/"//'g).md; \
-		echo $$file; \
-		post=$$date-$$slug.md; \
-		if [ -f "$$file" ] && [ ! -f "_posts/$$post" ]; then \
-			echo $$post; \
-			image=$$(cat $$file | grep '../images' | sed 's|!\[\](\.\.\(.*\))|\1|'); \
-			echo -e "---\\nlayout: post\\ntitle: $$title\\nobject: $$id\\nimage: $$image\\n---" \
-			| cat - "$$file" > _posts/$$post; \
+		if [ -f "$$file" ]; then \
+			echo $$file; \
+			shortTitle=$$(csvcut -c1 <<<$$line); \
+			title=$$(head -1 "$$file" | sed 's/[*]//g'); \
+			slug=$$(([[ -z "$$title" || `wc -c <<<$$title` -gt 100 ]] && echo $$shortTitle || echo $$title) | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
+			id=$$(csvcut -c5 <<<$$line); \
+			post=$$date-$$slug.md; \
+			if [ ! -f "_posts/$$post" ]; then \
+				echo $$post; \
+				image=$$(cat "$$file" | grep '../images' | sed 's|!\[\](\.\.\(.*\))|\1|'); \
+        echo -e "---\\nlayout: post\\ntitle: $$title\\nobject: $$id\\nimage: $$image\\n---" \
+				| cat - "$$file" > _posts/$$post; \
+			fi; \
 		fi; \
-		gsed -i'' -e 's|!\[\](\.\.|!\[\]({{siteurl.base}}|g' _posts/*; \
 	done
+	@gsed -i'' -e 's|!\[\](\.\.|!\[\]({{siteurl.base}}|g' _posts/*; \
 # slug thanks to http://automatthias.wordpress.com/2007/05/21/slugify-in-a-shell-script/
 
 rsync:

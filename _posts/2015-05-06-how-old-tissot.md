@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Old? (Tissot)
+title: 
 object: 2239
 image: 
 ---

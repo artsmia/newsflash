@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Old? (Washington)
+title: 
 object: 486
 image: 
 ---

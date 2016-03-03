@@ -1,0 +1,19 @@
+---
+layout: post
+title: Egypt: Wrong address?
+object: 110041
+image: /images/14-09-18_2011.20_CanalEDIT-1.jpeg
+---
+**Egypt: Wrong address?**
+
+****
+
+This print by Titian depicts an episode from the *Book of Exodus*: Moses parting the Red Sea to lead the Israelites out of Egypt. 
+
+Five hundred years later, Egypt recently sought to commemorate another dramatic water event: the multibillion-dollar expansion of the Suez Canal. To publicize the event, Egypt reproduced a rendering on a postage stamp. Problem was, the drawing was of the Panama Canal, located in South America, not the Suez Canal in Egypt. Oops. —*Diane Richard, writer, September 18*
+
+ Images: On the left, Egypt's stamp of the "Suez Canal"; on the right, a photograph of the Panama Canal.
+
+Source: Robert Siegel, “Egypt Stamps Wrong Canal On Its Postage,” *NPR*, September 15, 2014
+
+![]({{siteurl.base}}/images/14-09-18_2011.20_CanalEDIT-1.jpeg)

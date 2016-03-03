@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walking wounded
+title: Walking Wounded?
 object: 1244
 image: /images/13.08.27_Richard_WarriorEDIT-3.jpeg
 /images/13.08.27_Richard_WarriorEDIT-2.jpeg

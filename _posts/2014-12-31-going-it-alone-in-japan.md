@@ -1,0 +1,21 @@
+---
+layout: post
+title: Going it alone in Japan?
+object: 263
+image: /images/14-12-31_23.42_BrideEDIT-1.jpeg
+---
+**Going it alone in Japan?**
+
+****
+
+This bride looks exhausted after her big day, awaiting her groom for the honeymoon. In Japan, she could enjoy a quiet wedding night all by herself. 
+
+Today’s quirky trend from Japan is self-marriage. That’s right: women who marry themselves instead of waiting for Mr. (or Mrs.) Right. No compromising. No worries about getting jilted at the altar. And no in-laws. A travel agency invented the concept, and so far 30 “solo brides” have bit. Interestingly, half of those were already married, but didn’t have the wedding of their dreams.   —*Diane Richard, writer, December 31*
+
+**
+
+Image: AFP
+
+Source: “Japan: 'Solo weddings' for single women,” *BBC,* December 22, 2014
+
+![]({{siteurl.base}}/images/14-12-31_23.42_BrideEDIT-1.jpeg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Old? (Buonaventura)
+title: 
 object: 3632
 image: 
 ---

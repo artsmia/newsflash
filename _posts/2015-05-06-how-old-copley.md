@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How Old? (Copley)
+title: 
 object: 593
-image: 
+image: /images/15-05-06_41.3_How Old_Copley-1.png
 ---
 ****
 
