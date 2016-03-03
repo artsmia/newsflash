@@ -3,8 +3,10 @@ layout: post
 title: Walking Wounded?
 object: 1244
 image: /images/13.08.27_Richard_WarriorEDIT-3.jpeg
-/images/13.08.27_Richard_WarriorEDIT-2.jpeg
-/images/13.08.27_Richard_WarriorEDIT-1.jpeg
+images:
+- /images/13.08.27_Richard_WarriorEDIT-3.jpeg
+- /images/13.08.27_Richard_WarriorEDIT-2.jpeg
+- /images/13.08.27_Richard_WarriorEDIT-1.jpeg
 ---
 **Walking Wounded?**
 

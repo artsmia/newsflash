@@ -3,7 +3,9 @@ layout: post
 title: Bust Justice?
 object: 2240
 image: /images/13.12.11_Richard_BreastImplantEDIT-2.jpeg
-/images/13.12.11_Richard_BreastImplantEDIT-1.jpeg
+images:
+- /images/13.12.11_Richard_BreastImplantEDIT-2.jpeg
+- /images/13.12.11_Richard_BreastImplantEDIT-1.jpeg
 ---
 **Bust Justice?**
 

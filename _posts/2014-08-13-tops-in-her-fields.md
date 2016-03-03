@@ -3,7 +3,9 @@ layout: post
 title: Tops in Her Fields?
 object: 1096
 image: /images/14-08-13_50.46.434_MathEDIT-2.jpeg
-/images/14-08-13_50.46.434_MathEDIT-1.jpeg
+images:
+- /images/14-08-13_50.46.434_MathEDIT-2.jpeg
+- /images/14-08-13_50.46.434_MathEDIT-1.jpeg
 ---
 **Tops in Her Fields?**
 

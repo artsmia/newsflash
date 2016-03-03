@@ -3,8 +3,10 @@ layout: post
 title: Palatial dollhouse?
 object: ""
 image: /images/15-11-18_L2013.87_DollhouseEDIT-2.jpeg
-/images/15-11-18_L2013.87_DollhouseEDIT-1.jpeg
-/images/15-11-18_L2013.87_DollhouseEDIT-3.jpeg
+images:
+- /images/15-11-18_L2013.87_DollhouseEDIT-2.jpeg
+- /images/15-11-18_L2013.87_DollhouseEDIT-1.jpeg
+- /images/15-11-18_L2013.87_DollhouseEDIT-3.jpeg
 ---
 **Palatial dollhouse?**
 

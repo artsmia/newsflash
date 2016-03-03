@@ -3,7 +3,9 @@ layout: post
 title: Right to share arms?
 object: 14157
 image: /images/14-05-15_23.67_ArmsEDIT-2.jpeg
-/images/14-05-15_23.67_ArmsEDIT-1.jpeg
+images:
+- /images/14-05-15_23.67_ArmsEDIT-2.jpeg
+- /images/14-05-15_23.67_ArmsEDIT-1.jpeg
 ---
 **Right to share arms?**
 

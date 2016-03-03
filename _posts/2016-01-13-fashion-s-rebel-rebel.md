@@ -3,7 +3,9 @@ layout: post
 title: Fashion’s rebel rebel?
 object: 111576
 image: /images/16-1-13_2011.12a,b_BowieEDIT-1.jpeg
-/images/16-1-13_2011.12a,b_BowieEDIT-2.jpeg
+images:
+- /images/16-1-13_2011.12a,b_BowieEDIT-1.jpeg
+- /images/16-1-13_2011.12a,b_BowieEDIT-2.jpeg
 ---
 **Fashion’s rebel rebel?**
 

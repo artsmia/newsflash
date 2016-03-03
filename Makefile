@@ -99,8 +99,9 @@ posts:
 			post=$$date-$$slug.md; \
 			if [ ! -f "_posts/$$post" ]; then \
 				echo $$post; \
-				image=$$(cat "$$file" | grep '../images' | sed 's|!\[\](\.\.\(.*\))|\1|'); \
-        echo -e "---\\nlayout: post\\ntitle: $$title\\nobject: $$id\\nimage: $$image\\n---" \
+				image=$$(cat "$$file" | grep '../images' | head -1 | sed 's|!\[\](\.\.\(.*\))|\1|'); \
+				images=$$(cat "$$file" | grep '../images' | sed 's|!\[\](\.\.\(.*\))|\1|g; s/^/- /g'); \
+        echo -e "---\\nlayout: post\\ntitle: $$title\\nobject: $$id\\nimage: $$image\\nimages:\\n$$images\\n---" \
 				| cat - "$$file" > _posts/$$post; \
 			fi; \
 		fi; \

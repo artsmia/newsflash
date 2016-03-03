@@ -3,7 +3,9 @@ layout: post
 title: Four sisters, 40 years?
 object: 108785
 image: /images/14-11-12_2009.66_SistersEDIT-2.jpeg
-/images/14-11-12_2009.66_SistersEDIT-1.jpeg
+images:
+- /images/14-11-12_2009.66_SistersEDIT-2.jpeg
+- /images/14-11-12_2009.66_SistersEDIT-1.jpeg
 ---
 **Four sisters, 40 years?**
 

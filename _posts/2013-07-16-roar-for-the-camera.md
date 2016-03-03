@@ -3,7 +3,9 @@ layout: post
 title: Roar for the Camera?
 object: 45653
 image: /images/NewsFlash_Richard_RussianTiger_7.15-2.jpeg
-/images/NewsFlash_Richard_RussianTiger_7.15-1.jpeg
+images:
+- /images/NewsFlash_Richard_RussianTiger_7.15-2.jpeg
+- /images/NewsFlash_Richard_RussianTiger_7.15-1.jpeg
 ---
 **Roar for the Camera?**
 
