@@ -7,6 +7,8 @@ thanks: "https://github.com/christian-fei/Simple-Jekyll-Search/blob/master/searc
     "object": "{{post.object}}",
     "image": "{{post.image}}",
     "link"     : "http://newsflash.dx.artsmia.org{{ post.url }}",
-    "date"     : "{{ post.date }}"
+    "image"    : "{{ post.image }}",
+    "date"     : "{{ post.date }}",
+    "content"  : {{ post.content | markdownify | strip_html | jsonify }}
   } {% if forloop.last %}{% else %},{% endif %}
 {% endfor %}]
