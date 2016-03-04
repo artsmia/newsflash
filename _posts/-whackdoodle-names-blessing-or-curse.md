@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whackdoodle Names: Blessing or Curse?
+title: "Whackdoodle Names: Blessing or Curse?"
 object: 98954
 image: /images/14-05-05_2008.84_NamesEDIT-1.jpeg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ant art: beautiful or cruel?
+title: "Ant art: beautiful or cruel?"
 object: 3584
 image: /images/13.12.20_Gihring_AnthillArtEDIT-1.jpg
 ---

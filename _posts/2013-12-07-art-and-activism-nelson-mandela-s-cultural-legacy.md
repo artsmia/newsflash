@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Art and activism: Nelson Mandela’s cultural legacy
+title: "Art and activism: Nelson Mandela’s cultural legacy"
 object: 118698
 image: /images/13.12.07_Gihring_mandelaEDIT-1.jpeg
 ---

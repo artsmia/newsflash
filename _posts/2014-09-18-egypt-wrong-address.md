@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Egypt: Wrong address?
+title: "Egypt: Wrong address?"
 object: 110041
 image: /images/14-09-18_2011.20_CanalEDIT-1.jpeg
 ---

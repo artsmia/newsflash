@@ -87,21 +87,23 @@ object_ids:
 
 input = $$(tail -$(backlog) newsflash-labels.csv)
 posts:
-	@echo "$(input)" | while read line; do \
+	@echo -e "$(input)" | while read line; do \
 		date=$$(gdate --date="$$(csvcut -c6 <<<$$line)" '+%Y-%m-%d'); \
 		file=labels/$$(csvcut -c9 <<<$$line | sed 's/"//'g).md; \
 		if [ -f "$$file" ]; then \
 			echo $$file; \
 			shortTitle=$$(csvcut -c1 <<<$$line); \
-			title=$$(head -1 "$$file" | sed 's/[*]//g'); \
-			slug=$$(([[ -z "$$title" || `wc -c <<<$$title` -gt 100 ]] && echo $$shortTitle || echo $$title) | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
+			longTitle=$$(head -1 "$$file" | sed 's/[*]//g'); \
+			title=$$(([[ -z "$$longTitle" || `wc -c <<<$$longTitle` -gt 100 ]] && echo $$shortTitle || echo $$longTitle) ); \
+			slug=$$(echo $$title | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
+			echo $$title --- $$shortTitle --- $$longTitle --- `wc -c <<<$$title` --- $$slug; \
 			id=$$(csvcut -c5 <<<$$line); \
 			post=$$date-$$slug.md; \
 			if [ ! -f "_posts/$$post" ]; then \
 				echo $$post; \
 				image=$$(cat "$$file" | grep '../images' | head -1 | sed 's|!\[\](\.\.\(.*\))|\1|'); \
 				images=$$(cat "$$file" | grep '../images' | sed 's|!\[\](\.\.\(.*\))|\1|g; s/^/- /g'); \
-        echo -e "---\\nlayout: post\\ntitle: $$title\\nobject: $$id\\nimage: $$image\\nimages:\\n$$images\\n---" \
+				echo -e "---\\nlayout: post\\ntitle: \"$$title\"\\nobject: $$id\\nimage: $$image\\nimages:\\n$$images\\n---" \
 				| cat - "$$file" > _posts/$$post; \
 			fi; \
 		fi; \

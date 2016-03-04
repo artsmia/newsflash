@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Update: Locks of Love? 
+title: "Update: Locks of Love? "
 object: 1413
 image: /images/14-06-11_61.36.15_Bridge2EDIT-1.jpeg
 ---

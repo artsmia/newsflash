@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 
+title: "How Old? (Copley)"
 object: 593
 image: /images/15-05-06_41.3_How Old_Copley-1.png
+images:
+- /images/15-05-06_41.3_How Old_Copley-1.png
 ---
 ****
 

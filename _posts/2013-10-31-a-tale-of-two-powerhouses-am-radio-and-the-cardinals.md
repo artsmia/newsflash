@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A tale of two powerhouses: AM radio and the Cardinals
+title: "A tale of two powerhouses: AM radio and the Cardinals"
 object: 6783
 image: /images/13.10.31_Olivarez_RadioEDIT-1.jpeg
 ---

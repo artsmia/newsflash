@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fashion: fall forward?
+title: "Fashion: fall forward?"
 object: 9830
 image: /images/14-09-24_P.17,468_FashionEDIT-3.jpeg
 images:

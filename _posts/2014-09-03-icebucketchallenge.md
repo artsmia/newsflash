@@ -1,8 +1,10 @@
 ---
 layout: post
-title: \#icebucketchallenge
+title: "\#icebucketchallenge"
 object: 710
 image: /images/14-09-03_44.42.8a-c_IceBucketEDIT-1.jpg
+images:
+- /images/14-09-03_44.42.8a-c_IceBucketEDIT-1.jpg
 ---
 **\#icebucketchallenge**
 

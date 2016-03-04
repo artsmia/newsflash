@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crimea: Come again?
+title: "Crimea: Come again?"
 object: 1738
 image: /images/14-03-06_69.48_CrimeaEDIT-1.jpeg
 ---

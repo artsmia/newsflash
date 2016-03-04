@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 
+title: "How Old? (Romuald)"
 object: 1512
 image: /images/15-05-06_62.9_How Old_St_Romuald-1.png
+images:
+- /images/15-05-06_62.9_How Old_St_Romuald-1.png
 ---
 ****
 

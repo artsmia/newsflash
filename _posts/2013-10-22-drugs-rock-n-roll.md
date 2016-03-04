@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [    ], Drugs, Rock ’n’ Roll?
+title: "[    ], Drugs, Rock ’n’ Roll?"
 object: 2008
 image: /images/13.10.22_Richard_JapanSexEDIT-1.jpeg
 ---

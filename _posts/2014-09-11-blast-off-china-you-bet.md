@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blast off? China: You bet!
+title: "Blast off? China: You bet!"
 object: 60728
 image: /images/14-09-11_2002.45_SpaceTravEDIT-1.jpeg
 ---
