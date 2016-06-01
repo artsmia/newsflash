@@ -10,7 +10,7 @@ layout: default
   <article class="post-content">
   {{ content }}
   </article>
-  <a href="http://collection.staging.artsmia.org/art/{{page.object}}">
-    <img src="https://api.artsmia.org/images/{{page.object}}/medium.jpg">
+  <a href="http://collections.artsmia.org/art/{{page.object}}">
+    <img src="http://{{page.object | modulo:7 }}.api.artsmia.org/{{page.object}}.jpg">
   </a>
 </div>
