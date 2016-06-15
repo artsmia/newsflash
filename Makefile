@@ -88,16 +88,24 @@ object_ids:
 input = $$(tail -$(backlog) newsflash-labels.csv)
 posts:
 	@echo -e "$(input)" | while read line; do \
-		date=$$(gdate --date="$$(csvcut -c6 <<<$$line)" '+%Y-%m-%d'); \
-		file=labels/$$(csvcut -c9 <<<$$line | sed 's/"//'g).md; \
+		file=labels/$$(csvcut -c9 <<<$$line | sed 's/"//g; s/\.docx//').md; \
+		id=$$(csvcut -c5 <<<$$line); \
+		date=$$(gdate --date="$$(csvcut -c6 <<<"$$line")" '+%Y-%m-%d'); \
+		if [ $$? -ne 0 ]; then \
+			echo "fix objects with commas in the accession number, the quotes that escape the CSV are lost when echo'ed to 'read'" > /dev/null; \
+			date=$$(gdate --date="$$(csvcut -c7 <<<"$$line")" '+%Y-%m-%d'); \
+			file=labels/$$(csvcut -c10,11 <<<$$line | sed 's/"//'g).md; \
+			id=$$(csvcut -c6 <<<$$line); \
+		fi; \
 		if [ -f "$$file" ]; then \
 			echo $$file; \
 			shortTitle=$$(csvcut -c1 <<<$$line); \
 			longTitle=$$(head -1 "$$file" | sed 's/[*]//g'); \
+			if grep 'WomenatWork:' <<<$$shortTitle; then longTitle="$$longTitle$$(sed 's/WomenatWork//' <<<$$shortTitle)"; fi; \
+			if grep 'Before the Selfie:' <<<$$shortTitle; then longTitle="$$longTitle$$(sed 's/Before the Selfie//' <<<$$shortTitle)"; fi; \
 			title=$$(([[ -z "$$longTitle" || `wc -c <<<$$longTitle` -gt 100 ]] && echo $$shortTitle || echo $$longTitle) ); \
-			slug=$$(echo $$title | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
+			slug=$$(echo $$title | sed -e "s/'\|’//; s/[^[:alnum:]]/-/g" | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
 			echo $$title --- $$shortTitle --- $$longTitle --- `wc -c <<<$$title` --- $$slug; \
-			id=$$(csvcut -c5 <<<$$line); \
 			post=$$date-$$slug.md; \
 			if [ ! -f "_posts/$$post" ]; then \
 				echo $$post; \

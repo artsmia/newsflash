@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Not amused?"
+object: 56568
+image: /images/16-4-12_2015.55.1_NotFaceEDIT-1.jpeg
+images:
+- /images/16-4-12_2015.55.1_NotFaceEDIT-1.jpeg
+- /images/16-4-12_2015.55.1_NotFaceEDIT-2.jpeg
+---
+**Not amused?**
+
+****
+
+You see it in Hawaii. You see it in Haiti. In Helsinki, Hanoi, and Harare, too. It’s the “not face”—as in “I’m not buying what you just said.” Turns out, the pursed frown or scowl that consumes your face when your credulity is challenged is found the world over. 
+
+A recent study documented the facial movements of 158 students, who were asked a series of questions—some of them purposefully annoying—in their native languages. The result? *C’mon*. “To our knowledge, this is the first evidence that the facial expressions we use to communicate negative moral judgment have been compounded into a unique, universal part of language,” said study author Aleix Martinez, a professor at Ohio State University.     
+ *—* *Diane Richard, writer**, April 12*
+
+Image: Reuters/Fabrizio Bensch
+
+Source: Corinne Purtill, “Scientists have identified a facial expression made around the world: “the not face”,” *Quartz*, March 30, 2016
+
+![]({{siteurl.base}}/images/16-4-12_2015.55.1_NotFaceEDIT-1.jpeg)
+
+![]({{siteurl.base}}/images/16-4-12_2015.55.1_NotFaceEDIT-2.jpeg)
