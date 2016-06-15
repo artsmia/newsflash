@@ -12,5 +12,15 @@
       </div>
       {% include footer.html %}
     </div>
+    <script type="text/javascript">
+      var collectionsLink = document.querySelector('.mia-logo-bar')
+      collectionsLink.addEventListener('click', function(event) {
+        var referrer = document.referrer
+        if(referrer.match(/collections.*artsmia\.org/)) {
+          event.preventDefault()
+          window.location = referrer
+        }
+      })
+    </script>
   </body>
 </html>
