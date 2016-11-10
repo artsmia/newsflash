@@ -9,7 +9,7 @@ mount:
 	fi
 
 sync: mount
-	rsync -avz /Volumes/Design/PRINT\ PUBLICATIONS/Publications\ 2016/DSN_Design\ Editorial_16/NEWSFLASH/ docxs
+	rsync -avz /Volumes/Design/PRINT\ PUBLICATIONS/Publications\ 2017/DSN_Design\ Editorial_17/Newsflash/ docxs
 
 markdownify:
 	ls docxs/*doc* | while read doc; do \
@@ -52,7 +52,15 @@ stage_files_in_log:
 	git add newsflash-labels.csv
 
 commit: download_log
-	git commit -m "$$(git status -s -- labels | grep '^A' | perl -pe 's|A  labels/(.*?)_.*|\1|' | sort | sed -n '1p;$$p' | sed 's/-/\//g' | paste -sd "—" -)" --author="miabot <null+github@artsmia.org>"
+	git add _posts
+	git commit -m "$$(git status -s -- _posts \
+			| grep '^A' \
+			| perl -pe 's|A  "?_posts/(.*?)-[a-z].*.md"?|\1|' \
+			| sort \
+			| sed -n '1p;$$p' \
+			| sed 's/-/\//g' \
+			| paste -sd "—" -)" \
+		--author="miabot <null+github@artsmia.org>"
 
 assoc:
 	tail -n+3 newsflash-labels.csv | while read line; do \
@@ -83,6 +91,7 @@ object_ids:
 		fi; \
 	done
 
+backlog=20
 input = $$(tail -$(backlog) newsflash-labels.csv)
 posts:
 	@echo -e "$(input)" | while read line; do \
@@ -101,6 +110,7 @@ posts:
 			longTitle=$$(head -1 "$$file" | sed 's/[*]//g'); \
 			if grep 'WomenatWork:' <<<$$shortTitle; then longTitle="$$longTitle$$(sed 's/WomenatWork//' <<<$$shortTitle)"; fi; \
 			if grep 'Before the Selfie:' <<<$$shortTitle; then longTitle="$$longTitle$$(sed 's/Before the Selfie//' <<<$$shortTitle)"; fi; \
+			if grep 'Next in line' <<<$$shortTitle; then longTitle="$$longTitle$$(sed 's/Next in line//' <<<$$shortTitle)"; fi; \
 			title=$$(([[ -z "$$longTitle" || `wc -c <<<$$longTitle` -gt 100 ]] && echo $$shortTitle || echo $$longTitle) ); \
 			slug=$$(echo $$title | sed -e "s/'\|’//; s/[^[:alnum:]]/-/g" | tr -s '-' | tr A-Z a-z | sed -e 's/--/-/; s/^-//; s/-$$//'); \
 			echo $$title --- $$shortTitle --- $$longTitle --- `wc -c <<<$$title` --- $$slug; \
