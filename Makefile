@@ -69,19 +69,17 @@ assoc:
 		fi; \
 	done
 
-backlog = 120
+unidentifiedRows = $$(csvgrep -c5 -m 'null' newsflash-labels.csv | csvgrep -c4 -i -m null)
 object_ids:
-	tail -$(backlog) newsflash-labels.csv | while read line; do \
-		acc=$$(csvcut -c4 <<<$$line | sed 's/[[:space:]]*$$//; s/^[[:space:]]*//; s/"//g'); \
-		if [ -n "$$acc" -a '""' == $$(csvcut -c5 <<<$$line) -o -z $$(csvcut -c5 <<<$$line) ]; then \
-			result=$$(curl --silent "https://search.artsmia.org/accession_number:\"$$acc\""); \
-			if egrep -q "no result" <<<$$result; then \
+	echo "$(unidentifiedRows)" | while read line; do \
+		acc=$$(csvcut -c4 <<<$$line | sed 's/[[:space:]]*$$//; s/^[[:space:]]*//; s/"//g' | tr '[:upper:]' '[:lower:]' | sed 's/^l/L/'); \
+		result=$$(curl --silent "https://search.artsmia.org/accession_number:\"$$acc\""); \
+		if egrep -q "no result" <<<$$result; then \
 				echo $$acc -- no match; \
-			else \
+		else \
 				object=$$(jq -r '.hits.hits[0]._id' <<<$$result); \
 				sed -i'.bak' "s/$$acc[ ]*,,/$$acc,$$object,/" newsflash-labels.csv; \
 				echo $$acc -- $$object; \
-			fi; \
 		fi; \
 	done
 
